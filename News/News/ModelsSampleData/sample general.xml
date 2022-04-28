@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>34</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Id>goteborgs-posten</Id>
+        <Name>Göteborgs-Posten</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>USA formellt åter med på Parisavtalet - Göteborgs-Posten</Title>
+      <Description />
+      <Url>https://www.gp.se/nyheter/världen/usa-formellt-åter-med-på-parisavtalet-1.41752595</Url>
+      <UrlToImage>http://www.gp.se/image/policy:1.41752590:1613737578/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a</UrlToImage>
+      <PublishedAt>2021-02-19T12:26:16Z</PublishedAt>
+      <Content>USA är sedan fredagen formellt återanslutet till Parisavtalet om klimatet. Med det steget får kampen mot klimatförändringarna ny energi; president Joe Biden planerar att drastiskt minska utsläppen de… [+481 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.dn.se</Name>
+      </Source>
+      <Author>Martin Gelin</Author>
+      <Title>Experter: Varningarna viftades bort – Texas energisystem klarar inte kylan - Dagens Nyheter</Title>
+      <Description />
+      <Url>https://www.dn.se/varlden/varningarna-viftades-bort-texas-energisystem-klarar-inte-kylan/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/8b274073-0135-4c9e-b214-2b28275f6156.jpeg?interpolation=lanczos-none&amp;fit=around%7C1024:576&amp;crop=1024:h;center,top&amp;output-quality=80&amp;output-format=auto</UrlToImage>
+      <PublishedAt>2021-02-19T12:23:04Z</PublishedAt>
+      <Content>Jake och hans fru Rachel bor utanför Dallas med ett sju månader gammalt spädbarn. Han har ägnat de senaste dygnen åt att hugga ved i skogen för att kunna elda i husets öppna spis, som de aldrig behöv… [+6845 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>svenska-dagbladet</Id>
+        <Name>Svenska Dagbladet</Name>
+      </Source>
+      <Author>Johan Carlström</Author>
+      <Title>Riksbanken öppnar för minusränta - Svenska Dagbladet</Title>
+      <Description>Fyra av Riksbankens sex beslutsfattare öppnar för att sänka räntan om svensk ekonomi behöver mer stöd under coronakrisen. Det framgår av protokollet från bankens senaste räntemöte.</Description>
+      <Url>https://www.svd.se/riksbanken-oppnar-for-minusranta</Url>
+      <UrlToImage>https://svd.vgc.no/v2/images/209e9e41-8ba3-450e-b238-44e69de4fcf9?h=630&amp;q=80&amp;upscale=true&amp;w=1200&amp;s=ba23e92f95993e28a60bd37762452b05cf629111</UrlToImage>
+      <PublishedAt>2021-02-19T12:09:11Z</PublishedAt>
+      <Content>Den 10 februari meddelade riksbankschef Stefan Ingves att den viktiga styrräntan ligger kvar på 0 procent och att prognosen är att den ligger kvar i åtminstone tre år. 
+Men i protokollet från banken… [+199 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Sverigesradio.se</Name>
+      </Source>
+      <Author>Sveriges Radio</Author>
+      <Title>Sandra Näslunds succé fortsätter – vann världscuptävlingen i Österrike - Sveriges Radio</Title>
+      <Description>I österrikiska Reiteralm vann Sandra Näslund världscuptävlingen i skicross. 
+Efter framgångarna på VM i Idre där Näslund vann guld, imponerade hon ...</Description>
+      <Url>https://sverigesradio.se/artikel/sandra-naslunds-succe-fortsatter-vann-varldscuptavlingen-i-osterrike</Url>
+      <UrlToImage>https://static-cdn.sr.se/images/179/c3763370-970a-41b7-970e-c1e90fdcb17c.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T11:58:25Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Anna Sjögren, Beri Zangana, Cecilia Vaccari</Author>
+      <Title>Buss med gastankar brinner – spärrar av torg - Aftonbladet</Title>
+      <Description>En buss med gastankar på taket brinner på Hisingen i Göteborg. Räddningstjänsten spärrar nu av området kring platsen.  – Bussen är helt övertänd, säger Bosse Johansson på räddningstjänsten i Storgöteborg.</Description>
+      <Url>https://www.aftonbladet.se/nyheter/a/gWzAQ5/buss-med-gastankar-brinner--sparrar-av-torg</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/648370b1-b996-4de1-b7bf-b7c56144520a?fit=crop&amp;h=383&amp;q=50&amp;w=680&amp;s=dfa7a4242608c9f17251af8bc27b8cebc3e0f9ee</UrlToImage>
+      <PublishedAt>2021-02-19T11:55:15Z</PublishedAt>
+      <Content>Av: Anna Sjögren, Beri Zangana, Cecilia Vaccari 
+Publicerad: 19 februari 2021 kl. 12.55Uppdaterad: 19 februari 2021 kl. 13.36
+En buss med gastankar på taket brinner på Hisingen i Göteborg.
+Räddnin… [+1788 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.svt.se</Name>
+      </Source>
+      <Author>https://www.facebook.com/svtnyheter</Author>
+      <Title>Gasbuss i brand på Hisingen i Göteborg - Sveriges Television</Title>
+      <Description>En gasbuss brinner vid Hjalmar Brantingsplatsen på Hisingen i Göteborg. Enligt räddningstjänsten är branden fullt utvecklad. Med anledning av explosionsrisk är stora delar av området avspärrat.</Description>
+      <Url>https://www.svt.se/nyheter/lokalt/vast/gasbuss-i-brand-pa-hisingen-i-goteborg</Url>
+      <UrlToImage>https://www.svtstatic.se/image/custom/650/30218606/1613736336?format=auto&amp;ratio=1.91</UrlToImage>
+      <PublishedAt>2021-02-19T11:52:14Z</PublishedAt>
+      <Content>Räddningstjänsten är på plats med fyra enheter från två stationer. Det finns i nuläget ingen information om någon är skadad.
+ Det finns ju explosionsrisk när det gäller kärlen. Så det innebär att vi… [+1260 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.svt.se</Name>
+      </Source>
+      <Author>https://www.facebook.com/svtnyheter</Author>
+      <Title>Norska regeringen vill avkriminalisera bruk och innehav av narkotika - Sveriges Television</Title>
+      <Description>Norges regering vill reformera narkotikalagstiftningen så att användning av narkotika och mindre droginnehav avkriminaliseras.
+– Det är den viktigaste socialpolitiska reformen i modern tid, säger Venstre-ledaren och kunskapsministern Guri Melby på en presskon…</Description>
+      <Url>https://www.svt.se/nyheter/utrikes/norska-regeringen-vill-avkriminalisera-bruk-och-innehav-av-narkotika</Url>
+      <UrlToImage>https://www.svtstatic.se/image/custom/650/30218522/1613736231?format=auto&amp;ratio=1.91</UrlToImage>
+      <PublishedAt>2021-02-19T11:39:50Z</PublishedAt>
+      <Content>Den norska Rusreformen har hämtat inspiration från Portugal, där bruk och mindre innehav av alla droger avkriminaliserades 2001. Huvudlinjen är att ansvaret för drogproblematiken ska flyttas från rät… [+1904 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Olof Svensson</Author>
+      <Title>Skarp kritik mot Jimmie Åkessons invandrings-uttalande - Aftonbladet</Title>
+      <Description>Jimmie Åkesson kräver stopp för all invandring som utgör en ”kulturell belastning”. Uttalandet har mötts av massiv kritik från hans politiska motståndare.  – Sverigedemokraternas politik och retorik radikaliseras i takt med att samhällsdebatten tänjer sina gr…</Description>
+      <Url>https://www.aftonbladet.se/nyheter/a/oA7GEj/massiv-kritik-mot-akessons-ordval-ovardigt-en-partiledare</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/321c937d-567a-46d8-89e2-138731a596c7?fit=crop&amp;h=755&amp;q=50&amp;w=1443&amp;s=7248bb24c5e38370da157bf11e2c0bdc3a49f83c</UrlToImage>
+      <PublishedAt>2021-02-19T11:32:41Z</PublishedAt>
+      <Content>Av: Olof Svensson
+Publicerad: 19 februari 2021 kl. 12.32Uppdaterad: 19 februari 2021 kl. 13.36
+Jimmie Åkesson kräver stopp för all invandring som utgör en kulturell belastning.
+Uttalandet har mött… [+2255 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>goteborgs-posten</Id>
+        <Name>Göteborgs-Posten</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Supersviten fortsätter – Medvedev till final - Göteborgs-Posten</Title>
+      <Description>Novak Djokovic är regerande mästare och har aldrig förlorat en Australian Open-final. Men är han ens favorit den här gången? Motståndaren Daniil Medvedev utklassade Stefanos Tsitsipas i semifinalen och tycks för tillfället oslagbar. – All press är på Djokovic…</Description>
+      <Url>https://www.gp.se/sport/supersviten-fortsätter-medvedev-till-final-1.41749414</Url>
+      <UrlToImage>http://www.gp.se/image/policy:1.41749409:1613733976/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a</UrlToImage>
+      <PublishedAt>2021-02-19T11:26:15Z</PublishedAt>
+      <Content>Redan finalklare Novak Djokovic sade att han skulle ta fram en skål med popcorn och följa semifinalen mellan Daniil Medvedev och Stefanos Tsitsipas.
+Frågan är om matchen gav den serbiske världsettan… [+2340 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>maria brander</Author>
+      <Title>Här är det nya svenska musikundret – på film - Expressen</Title>
+      <Description>Svenska popundret har ni förstås hört talas om. Men på senare år finns det även fog för att tala om ett svenskt musikunder på film. En stor del av den äran tillfaller förstås Ludwig Göransson, men även Tove Lo och Molly Sandén finns med i Hollywoodleken.</Description>
+      <Url>https://www.expressen.se/noje/maria-brander/har-ar-det-nya-svenska-musikundret-pa-film/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/10/d3/10d363d0300b48009290f43b28f281d7/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T11:00:00Z</PublishedAt>
+      <Content>Ludwig Göransson är egentligen ett litet mirakel i sig. Den 36-årige kompositören räknas numera till en av filmmusikvärldens absolut största namn, och är framöver både Golden globe-nominerad och Osca… [+2029 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>goteborgs-posten</Id>
+        <Name>Göteborgs-Posten</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Domstolsbakslag för Uber - Göteborgs-Posten</Title>
+      <Description />
+      <Url>https://www.gp.se/ekonomi/domstolsbakslag-för-uber-1.41747508</Url>
+      <UrlToImage>http://www.gp.se/image/policy:1.41747451:1613731808/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a</UrlToImage>
+      <PublishedAt>2021-02-19T10:50:13Z</PublishedAt>
+      <Content>Uberchaufförer har samma rättigheter som andra anställda, inklusive minimilön, slår Storbritanniens högsta domstol fast.
+Domen är ett stort bakslag för Uber, med omkring 60 000 chaufförer i trafik i… [+654 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Sydsvenskan.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Roaring Kitty” utfrågad kring Gamestophärvan - Sydsvenskan</Title>
+      <Description>Varför stoppade nätmäklaren Robinhood handeln i Gamestop och vilket ansvar har man för de småsparare som dragits med i hysterin? Det var några av huvudfrågorna när bolagets vd grillades i en utfrågning i USA:s representanthus. Ett nytt kapitel skrevs i</Description>
+      <Url>https://www.sydsvenskan.se/2021-02-19/roaring-kitty-utfragad-kring-gamestopharvan</Url>
+      <UrlToImage>https://www.sydsvenskan.se/images/1FcbMDp1s8HVmsCCpCm2PHOGycA.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T10:45:48Z</PublishedAt>
+      <Content>Få notiser direkt i webbläsaren!
+Med våra nyhetsnotiser får du senaste nytt om ämnen som du följer.Men för att kunna få notiser från oss måste du ge din webbläsare tillåtelse.
+Sätt igång!Avbryt
+Än… [+366 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Andreas Käck, Linn Nordström</Author>
+      <Title>Skidskytte-VM: Johanna Skottheim kör stafetten för Sverige - Aftonbladet</Title>
+      <Description>POKLJUKA. Mona Brorssons VM-mardröm fortsätter. Nu petas hon även i stafetten. Johanna Skottheim tar den fjärde och sista platsen istället.  – Det här var kanske den svåraste uttagning vi gjort de senaste åren, säger landslagstränaren Mattias Nilsson.</Description>
+      <Url>https://www.aftonbladet.se/sportbladet/a/JJByrX/mona-brorsson-petas-igen-i-stafetten</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/efc7e751-5c47-4656-8f79-28a53669736c?fit=crop&amp;h=742&amp;q=50&amp;w=1417&amp;s=6eede7d6fb7c87576e96da903901b77491eb08de</UrlToImage>
+      <PublishedAt>2021-02-19T10:32:07Z</PublishedAt>
+      <Content>Mona Brorsson petas igen i stafetten
+Skottheim får chansen i stället
+Av: Andreas Käck, Linn Nordström
+Publicerad: 19 februari 2021 kl. 11.32Uppdaterad: 19 februari 2021 kl. 13.03
+POKLJUKA. Mona B… [+2745 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>linnea lundström</Author>
+      <Title>Inkassokravet på regionen: 2,4 miljoner för fältsjukhuset - Expressen</Title>
+      <Description>Västra Götalandsregionen är skyldig Försvarsmakten närmare 2,4 miljoner kronor för det fältsjukhus som sattes upp vid Östra sjukhuset under pandemins första våg. Summan har ännu inte betalats – och nu har den gått till inkasso.</Description>
+      <Url>https://www.expressen.se/gt/regionen-skyldig-24-miljoner-for-faltsjukhuset-till-inkasso/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/95/b4/95b49f9864b04411bbc4df92907812fc/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T10:19:00Z</PublishedAt>
+      <Content>Det var i april förra året som fältsjukhuset i Göteborg togs i bruk. På så sätt kunde Försvarsmakten stötta upp den civila sjukvården med 20 intensivvårdsplatser, när trycket på sjukvården var som st… [+1619 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.dn.se</Name>
+      </Source>
+      <Author>Simón Bustamante</Author>
+      <Title>Protester i Barcelona i Spanien efter att rappare gripits - Dagens Nyheter</Title>
+      <Description />
+      <Url>https://www.dn.se/varlden/stora-protester-i-spanien-efter-att-rappare-gripits/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/e6d05af2-093f-47e4-84b9-eafc331631db.jpeg?interpolation=lanczos-none&amp;fit=around%7C1024:576&amp;crop=1024:h;center,top&amp;output-quality=80&amp;output-format=auto</UrlToImage>
+      <PublishedAt>2021-02-19T10:09:37Z</PublishedAt>
+      <Content>I tre dagar har polis och demonstranter drabbat samman i flera spanska städer efter protester mot tisdagens gripande av Pablo Rivadulla, mer känd som rapparen Hasél.
+På det stora hela har demonstrat… [+1844 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>vendela ögren</Author>
+      <Title>Utsatt för rasism mitt under match - Expressen</Title>
+      <Description>Zlatan Ibrahimovic fanns inte med på planen när Milan ställdes mot Röda Stjärnan under torsdagskvällen. På läktaren utsattes han för rasistiska tillrop. – Ett av de mest nedlåtande man kan använda om en muslim, säger Sanimir Resic, docent i historia vid Lunds…</Description>
+      <Url>https://www.expressen.se/sport/fotboll/video-visar-zlatan-utsatt-for-rasism/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/96/f3/96f3d980c1a8428cb4c61708c7ea6c66/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T10:00:00Z</PublishedAt>
+      <Content>Milan spelade 2-2 borta mot Röda Stjärnan i första mötet av två i sextondelsfinalen i Europa League under torsdagskvällen.
+Lagets stora stjärna Zlatan Ibrahimovic satt på läktaren hela matchen i Bel… [+994 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>david carlsson</Author>
+      <Title>Ängelholm: Smittutbrott på sjukhus kopplas till mutationen - Expressen</Title>
+      <Description>Skåne har just nu störst smittspridning av den brittiska mutationen i landet – och ett ett stort utbrott på Ängelholms sjukhus kopplas till mutationen. Fler än 20 anställda och 15 patienter har smittats, rapporterar Helsingborgs Dagblad .</Description>
+      <Url>https://www.expressen.se/kvallsposten/smittutbrott-pa-sjukhus-kopplas-till-mutationen-/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/12/6a/126a3f743b254e0f885655cb962d966d/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T09:54:00Z</PublishedAt>
+      <Content>Närmare en tredjedel av personalen på den drabbade medicinavdelningen på Ängelholms sjukhus har insjuknat i covid-19. Det motsvarar ett 20-tal anställda. Dessutom har fler än 15 patienter smittats me… [+1347 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.dn.se</Name>
+      </Source>
+      <Author>Nicholas Wennö</Author>
+      <Title>Nicholas Wennö tipsar om sevärda filmer och serier. - Dagens Nyheter</Title>
+      <Description>Brittisk mystik, bekännelser i Sydfrankrike, dansk erotik, brasiliansk fotbollshistoria och fokus på Stanley Kubrick, en världens bästa regissörer. Nicholas Wennö guidar till veckans bästa fynd i strömningsdjungeln.</Description>
+      <Url>https://www.dn.se/kultur/dns-nicholas-wenno-ger-veckans-basta-stromningstips-2/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/2565bc6d-8977-487c-b639-3a12b37874d4.jpeg?interpolation=lanczos-none&amp;fit=around%7C1024:576&amp;crop=1024:h;center,top&amp;output-quality=80&amp;output-format=auto</UrlToImage>
+      <PublishedAt>2021-02-19T09:12:35Z</PublishedAt>
+      <Content>Suranne Jones och Lennie James i Save me.
+Foto: Ross Sinclair
+Save me
+Comhem Play+
+Serieskapare: Lennie James
+Med: Lennie James, Suranne Jones, Stephen Graham m fl
+Mörk och gripande korsning av… [+6842 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.vk.se</Name>
+      </Source>
+      <Author>Västerbottens-Kuriren</Author>
+      <Title>Smitta spreds snabbt – av personal utan symtom - Västerbottens-Kuriren</Title>
+      <Description>Socialkontoret i Skellefteå har anmält flera allvarliga tillbud till Arbetsmiljöverket som gäller covid-19-smitta på boenden bland personal. Anmälningarna ger en fingervisning om hur lätt och snabbt covid-19 sprids.</Description>
+      <Url>https://www.vk.se/2021-02-19/smitta-spreds-snabbt-av-personal-utan-symtom</Url>
+      <UrlToImage>https://vkmedia.imgix.net/efIMUpnYDOCuSEZZCBn8R9mp8jY.jpg?auto=compress&amp;w=973&amp;h=509&amp;crop=faces,edges&amp;fit=crop</UrlToImage>
+      <PublishedAt>2021-02-19T08:58:12Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>tt</Author>
+      <Title>Pojke misstänks för mord – medger att han startat brand - Expressen</Title>
+      <Description>En 16-årig pojke som misstänks för mord och grov mordbrand i Nässjö kommun medger att det var han som startade branden.</Description>
+      <Url>https://www.expressen.se/gt/krim/pojke-misstanks-for-mord-medger-att-han-startat-brand/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/13/3b/133b8e56ae104ebea8659172fe78df20/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T08:47:00Z</PublishedAt>
+      <Content>En person hittades död efter en våldsam villabrand i Nässjö kommun i början av februari.
+Vi har ännu inte någon identifiering av kroppen som påträffades i bostaden, säger kammaråklagare Heléne Thoma… [+628 chars]</Content>
+    </Article>
+  </Articles>
+</NewsApiData>

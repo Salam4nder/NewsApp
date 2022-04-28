@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>31</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Lars Hermansson, Ulrika Hermansson</Author>
+      <Title>Musk ska bygga stad på Mars - Aftonbladet</Title>
+      <Description>Då kan du flytta till Mars – om Elon Musk lyckas med sin plan</Description>
+      <Url>https://www.aftonbladet.se/nyheter/a/zglJv4/musk-vill-bygga-miljonstad-pa-mars</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/51de25e9-2f99-4848-93e6-92c71d5c44ed?fit=crop&amp;h=995&amp;q=50&amp;w=1900&amp;s=b2e5dcd551ef613cffba5bd6ab76abcc5b6ee47a</UrlToImage>
+      <PublishedAt>2021-02-19T10:35:25Z</PublishedAt>
+      <Content>Då lovar Elon Musk lovar att hans miljonstad på den röda planeten ska vara klar.
+Christer Fuglesang: Själva resan tar 48 månader enkel resa, och det är inget problem att klara för en person i normal… [+99 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.svt.se</Name>
+      </Source>
+      <Author>https://www.facebook.com/svtnyheter</Author>
+      <Title>Historiskt ögonblick när rymdsond landade på Mars - Sveriges Television</Title>
+      <Description>Efter sex månaders rymdfärd och flera år av förberedelser har sonden Perseverance landat på Mars. Händelsen är historisk och nu väntar många års forskning som förhoppningsvis ska ge svar på frågan som alla ställer sig – finns det liv på Mars?
+– Förhoppningen …</Description>
+      <Url>https://www.svt.se/nyheter/historiskt-ogonblick-nar-rymdsond-landade-pa-mars</Url>
+      <UrlToImage>https://www.svtstatic.se/image/custom/650/30214544/1613723141?format=auto&amp;ratio=1.91</UrlToImage>
+      <PublishedAt>2021-02-19T08:37:23Z</PublishedAt>
+      <Content>Efter sex månaders rymdfärd och flera år av förberedelser har sonden Perseverance landat på Mars. Händelsen är historisk och nu väntar många års forskning som förhoppningsvis ska ge svar på frågan so… [+170 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.svt.se</Name>
+      </Source>
+      <Author>https://www.facebook.com/svtnyheter</Author>
+      <Title>”Vaccinen har en skyddseffekt även mot mutationerna” - Sveriges Television</Title>
+      <Description>Att coronaviruset muterar är i sig inga konstigheter – faran ligger i om viruset fortsätter att förändras så att dagens vaccin blir mindre effektivt.
+Det menar KI-professorn Anders Sönnerborg som samtidigt är optimistisk till vaccinforskningen. 
+– Om viruset …</Description>
+      <Url>https://www.svt.se/nyheter/inrikes/hur-farliga-ar-virusmutationerna</Url>
+      <UrlToImage>https://www.svtstatic.se/image/custom/650/30216352/1613728279?format=auto&amp;ratio=1.91</UrlToImage>
+      <PublishedAt>2021-02-19T06:09:19Z</PublishedAt>
+      <Content>Trots att mutationer av coronaviruset finns spritt i landet menar KI-professorn och vaccinexperten Matti Sällberg att det inte finns någon anledning till ökad oro, men han poängterar att det är vikti… [+1832 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.vk.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>18:42 Svamp och metangas unika fynd i Siljansringen - Västerbottens-Kuriren</Title>
+      <Description>Svamp som levt under syrefria förhållanden i en meteoritkrater för 40 miljoner år sedan förbluffar forskarna. En annan unik aspekt av fynden är att svampen verkar ha bidragit till produktion av växthusgasen metan.</Description>
+      <Url>https://www.vk.se/2021-02-19/svamp-och-metangas-unika-fynd-i-siljansringen</Url>
+      <UrlToImage>https://vkmedia.imgix.net/_k0DTsg7RXqxmoAazjRxMDq6exQ.jpg?auto=compress&amp;w=1024&amp;h=536&amp;crop=faces,edges&amp;fit=crop</UrlToImage>
+      <PublishedAt>2021-02-19T02:43:14Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Id>google-news</Id>
+        <Name>Google News</Name>
+      </Source>
+      <Title>Första bilden efter lycklig Marslandning - Göteborgs-Posten</Title>
+      <Url>https://news.google.com/__i/rss/rd/articles/CBMiVGh0dHBzOi8vd3d3LmdwLnNlL255aGV0ZXIvdiVDMyVBNHJsZGVuL3NvbmQtbGFuZGFkZS1seWNrbGlndC1wJUMzJUE1LW1hcnMtMS40MTcwNTI5MtIBAA?oc=5</Url>
+      <PublishedAt>2021-02-18T22:01:00Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Illvet.se</Name>
+      </Source>
+      <Author>Redaktionen</Author>
+      <Title>Perseverance: Nu landar Nasa-robot på Mars | illvet.se - Illivet</Title>
+      <Description>I dag landar Marsbilen Perseverance. Den mest avancerade Marsbilen hittills ska söka efter tecken på liv och teknik som ska lägga grunden för...</Description>
+      <Url>https://illvet.se/universum/solsystemet/mars/nasas-rover-ska-hitta-liv-paa-mars</Url>
+      <UrlToImage>https://images.bonnier.cloud/files/ill/production/2020/06/26140431/Perseverance-on-mars.jpg?auto=compress&amp;max-w=1200</UrlToImage>
+      <PublishedAt>2021-02-18T21:41:25Z</PublishedAt>
+      <Content>Helikopterns uppgift blir bland annat att utforska landskapet och rapportera om de bästa rutterna som rovern Perseverance kan följa.
+Men Ingenuity ska även ta bilder av Mars yta bilder med ungefär t… [+1326 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.svt.se</Name>
+      </Source>
+      <Author>https://www.facebook.com/svtnyheter</Author>
+      <Title>Förhoppningen: Snart kan vi se drönarbilder från Mars - Sveriges Television</Title>
+      <Description>En ny rymdsond ska landa på Mars, och inte vilken som helst. Nasas rover Perseverance är utrustad med propellrar, och förhoppningen är att man ska kunna flyga så pass nära planeten att man kan komma hem med drönarbilder.</Description>
+      <Url>https://www.svt.se/nyheter/vetenskap/forhoppningen-snart-kan-vi-se-dronarbilder-fran-mars</Url>
+      <UrlToImage>https://www.svtstatic.se/image/custom/650/30200804/1613647935?format=auto&amp;ratio=1.91</UrlToImage>
+      <PublishedAt>2021-02-18T20:38:51Z</PublishedAt>
+      <Content>Det är högsäsong på planeten Mars just nu. I början av februari gick Förenade Arabemiratens rymdsond in i omloppsbana kring planeten. Dagen efter följde en kinesisk Rymdsond efter och nu ska Nasas ro… [+599 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.svt.se</Name>
+      </Source>
+      <Author>https://www.facebook.com/svtnyheter</Author>
+      <Title>Ny mutation påträffad i Finland – kan vara svårare att upptäcka vid testning - Sveriges Television</Title>
+      <Description>En inhemsk mutation av coronaviruset har upptäckts i Finland. Enligt finska forskare kan den nya varianten vara svårare att upptäcka vid covidtest.
+– I nuläget är det oklart om det kommer påverka smittsamhet, immunitet och vaccineffekt, säger Anders Tegnell.</Description>
+      <Url>https://www.svt.se/nyheter/utrikes/ny-mutation-patraffad-i-finland-kan-vara-svarare-att-upptacka-vid-testning</Url>
+      <UrlToImage>https://www.svtstatic.se/image/custom/650/30210256/1613677815?format=auto&amp;ratio=1.91</UrlToImage>
+      <PublishedAt>2021-02-18T20:11:10Z</PublishedAt>
+      <Content>Under torsdagen upptäcktes en ny, inhemsk mutation av coronaviruset i södra Finland. I nuläget rör det sig endast om ett bekräftat fall. Det skriver Vita Laboratoriot och biotekniska institutet vid H… [+1725 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>johan ronge</Author>
+      <Title>20.49 I dag ska Nasas farkost gå ner för landning på Mars - Expressen</Title>
+      <Description>Under torsdagen landade amerikanska rymdbolaget Nasas farkost ”Percy” på planeten Mars yta efter några nervösa minuter. För Nasa var nedstigningen ”sju minuter av terror” – och glädjescener bröt ut ut i rymdbolagets högkvarter när den lyckades. Farkostens upp…</Description>
+      <Url>https://www.expressen.se/nyheter/i-dag-ska-nasas-farkost-ga-ner-for-landning-pa-mars/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/85/d0/85d08d1828fd4a028078e55e067dc250/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T19:49:00Z</PublishedAt>
+      <Content>Just nu råder högsäsong för Mars-expeditioner. Sedan en dryg vecka tillbaka befinner sig kinesiska farkosten Tianwen-1 i omloppsbana runt den röda planeten, men med en dags marginal hann Förenade Ara… [+2618 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>jens andersson</Author>
+      <Title>17.25 Kommunerna där smittan ökar mest - Expressen</Title>
+      <Description>Coronasmittan ökar igen i Västra Götalandsregionen, efter att ha legat på ungefär samma nivå under de tre föregående veckorna. – Det är en tydlig uppgång på en vecka och vi är väldigt oroade för att det ska ta fart igen, säger smittskyddsläkare Thomas Wahlber…</Description>
+      <Url>https://www.expressen.se/gt/kommunerna-dar-smittan-okar-mest/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/63/d4/63d44d65e89744f3986afba10aea00e7/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T16:25:00Z</PublishedAt>
+      <Content>Under föregående vecka rapporterades 4 737 coronafall in i regionen. Det är en ökning med drygt 14 procent jämfört med veckan före. 
+Som en konsekvens infördes nya lokala coronarekommendationer i Vä… [+3949 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Feber.se</Name>
+      </Source>
+      <Title>USA landar antagligen inte människor på månen 2024. NASA-chef uppger att tidsplanen för Artemis inte längre håller - Feber</Title>
+      <Description>NASA:s tillförordnade chef Steve Jurczyk uppgav igår att han inte tror att USA kommer att hinna landa en man och en kvinna på månen under 2024. Till Ars Technica säger Jurczyk angående USA:s månlandar-program Artemis:  x22The 2024 lunar landing goal may no lo…</Description>
+      <Url>https://feber.se/vetenskap/usa-landar-antagligen-inte-manniskor-pa-manen-2024/421640/</Url>
+      <UrlToImage>https://static.feber.se/article_images/50/93/13/509313.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T16:23:03Z</PublishedAt>
+      <Content>NASA:s tillförordnade chef Steve Jurczyk uppgav igår att han inte tror att USA kommer att hinna landa en man och en kvinna på månen under 2024. Till Ars Technica säger Jurczyk angående USA:s månlanda… [+908 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>sara karlsson</Author>
+      <Title>Corona i Sverige: Här ökar smittan mest i Sverige - Expressen</Title>
+      <Description>Antalet inlagda på sjukhus som vårdas för covid-19 ökar igen – och de muterade virusen breder ut sig. Var fjärde analyserat fall i Gävleborg visade positivt för den brittiska mutationen.</Description>
+      <Url>https://www.expressen.se/nyheter/nya-siffror-har-okar-mutationerna-mest/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/1f/c3/1fc399404a1a4a388660b1d29da612a5/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T13:53:00Z</PublishedAt>
+      <Content>Smittspridningen i Sverige ökar.
+ Tittar man på de fall som anmälts hittills under vecka sju är trenden att vi kommer att få se en viss ökning av fall även den här veckan, vilket såklart är oroväcka… [+2032 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.svt.se</Name>
+      </Source>
+      <Author>https://www.facebook.com/svtnyheter</Author>
+      <Title>Professor Fredrik Elgh utsatt för hundratals hot under pandemin - Sveriges Television</Title>
+      <Description>Fredrik Elgh, professor i virologi vid Umeå universitet, har fått ta emot hundratals hot under pandemin.
+Han säger att debattklimatet hårdnat och att det bara blir värre och värre.
+– Någon skrek att jag var landsförrädare och inte hade något levnadsvärde kvar…</Description>
+      <Url>https://www.svt.se/nyheter/lokalt/vasterbotten/professor-utsatt-for-hundratals-hot-i-pandemins-spar</Url>
+      <UrlToImage>https://www.svtstatic.se/image/custom/650/30202948/1613657383?format=auto&amp;ratio=1.91</UrlToImage>
+      <PublishedAt>2021-02-18T13:04:05Z</PublishedAt>
+      <Content>Anställda på Folkhälsomyndigheten har blivit utsatta för hat och hot under pandemin, detta har SVT tidigare rapporterat om. Men även forskare som har uttalat sig om covid-19 har drabbats av hot.
+En … [+728 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Sverigesradio.se</Name>
+      </Source>
+      <Author>Sveriges Radio</Author>
+      <Title>I kväll ska USA:s rymdbil Perseverance landa på Mars - Vetenskapsradion Nyheter - Sveriges Radio</Title>
+      <Description>Strax före klockan 22 i kväll är det dags att hålla tummarna för det sexhjuliga fordon från Nasa som då ska försöka landa på Mars.</Description>
+      <Url>https://sverigesradio.se/artikel/i-kvall-ska-usas-rymdbil-perseverance-landa-pa-mars</Url>
+      <UrlToImage>https://static-cdn.sr.se/images/406/748ea77a-ce60-40fd-b32f-fc3b73dba9ea.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T09:52:41Z</PublishedAt>
+      <Content>Det är elva minuters fördröjning mellan planeterna och här på jorden beräknas signalerna från precis när farkosten får markkontakt komma fem minuter i tio.
+Den här Marsbilen är ungefär lika stor som… [+369 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>jakob kjelldén</Author>
+      <Title>Var tredje minkanställd har smittats av corona - Expressen</Title>
+      <Description>En tredjedel av de anställda på minkfarmar har smittats med coronaviruset. Men det värsta är förhoppningsvis över. – Nu är det ett bra tag sedan vi hade smittad personal och vi har inte haft smittspridning bland minkarna sedan i början av december, säger Sven…</Description>
+      <Url>https://www.expressen.se/kvallsposten/var-tredje-minkanstalld-smittad-med-corona/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/e1/7c/e17c57e70405405385183f89ecb7fc17/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T07:57:00Z</PublishedAt>
+      <Content>I höstas spreds en ny variant av coronavirus bland minkar i Danmark, vilket skapade oro för att mutationen skulle vara motståndskraftig mot vaccin. Miljontals minkar avlivades, och nu tror danska myn… [+1816 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>adam koskelainen</Author>
+      <Title>Corona: Borås djurpark kan tvingas stänga - Expressen</Title>
+      <Description>Borås djurpark kunde hålla öppet som vanligt förra året – trots pandemin. Men om smittspridningen förvärras ytterligare skulle de kunna tvingas att stänga, enligt regeringens nya förslag. – Vi får avvakta och se, säger djurparkens vd Jeanette Lindström till B…</Description>
+      <Url>https://www.expressen.se/gt/boras-djurpark-kan-tvingas-stanga/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/69/57/6957ab65a99640caa7be8b880096b92e/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T00:18:00Z</PublishedAt>
+      <Content>Om allt går som planerat kommer Borås djurpark att öppna upp den 2 april.
+Men under onsdagen presenterade regeringen förslag på en ny föreskrift till pandemilagen, som bland annat skulle kunna inneb… [+1799 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Och jorden bildades av... grus - Aftonbladet</Title>
+      <Description>Svenska och danska forskare lanserar en helt ny teori för hur jorden bildades. I stället för att jorden växte sig stor tack vare krockar med asteroider, tror forskarna att den bildades av mängder av millimeterstora stenar. Grus, med andra ord.</Description>
+      <Url>https://www.aftonbladet.se/nyheter/a/zg8w8q/och-jorden-bildades-av-grus</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/e785018f-9872-45f2-b1f5-8e2905f8a395?fit=crop&amp;h=720&amp;q=50&amp;w=720&amp;s=0efe942291381b06ce87d98f56f88ce1ffc1825f</UrlToImage>
+      <PublishedAt>2021-02-17T19:16:00Z</PublishedAt>
+      <Content>Av: TT
+Publicerad: 17 februari 2021 kl. 20.16Uppdaterad: 17 februari 2021 kl. 21.12
+Svenska och danska forskare lanserar en helt ny teori för hur jorden bildades. I stället för att jorden växte sig… [+4771 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>linnea lundström</Author>
+      <Title>Försvarsmakten står redo om tredje vågen kommer - Expressen</Title>
+      <Description>21 iva-platser, lika många sjukhusplatser, samt ventilatorer och sjukvårdsutrustning. Allt står redo vid Försvarsmedicincentrum i Göteborg – ifall tredje vågen sköljer över regionerna. – Än så länge har den här materielen inte efterfrågats av regionerna, men …</Description>
+      <Url>https://www.expressen.se/gt/forsvarsmakten-star-redo-om-tredje-vagen-kommer/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/20/a4/20a4ac34ac6f40d99303c4c293ccf5b4/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-17T19:04:00Z</PublishedAt>
+      <Content>De fältsjukhus som försåg vården med fler sjukhusplatser och materiel under pandemins första våg står nu nedpackade i sju olika förpackningar vid Försvarsmedicincentrum i Göteborg.
+De har hittills i… [+1291 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.dn.se</Name>
+      </Source>
+      <Author>Karin Bojs</Author>
+      <Title>Karin Bojs: Mammut-dna analyserat efter mer än miljoner år - DN.SE - Dagens Nyheter</Title>
+      <Description>En svenskledd forskargrupp har analyserat dna från två mer än en miljon år gamla mammutar från Sibirien. Det är en ny milstolpe i dna-forskningens historia.</Description>
+      <Url>https://www.dn.se/vetenskap/karin-bojs-miljonarigt-mammut-dna-analyserat-historisk-milstolpe/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/d587fd30-5bda-4ab1-a973-72e04554aaa0.jpeg?interpolation=lanczos-none&amp;fit=around%7C1024:576&amp;crop=1024:h;center,top&amp;output-quality=80&amp;output-format=auto</UrlToImage>
+      <PublishedAt>2021-02-17T16:04:50Z</PublishedAt>
+      <Content>En utskrift från Dagens Nyheter, 2021-02-19 11:57
+Artikelns ursprungsadress: https://www.dn.se/vetenskap/karin-bojs-miljonarigt-mammut-dna-analyserat-historisk-milstolpe/</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Joachim Kerpner</Author>
+      <Title>Brittisk mutation av corona ökar risken att dö - Aftonbladet</Title>
+      <Description>Ökar risken att dö med 40-60 procent, enligt nya studier</Description>
+      <Url>https://www.aftonbladet.se/nyheter/a/weK9G5/brittiska-mutationen-av-coronaviruset-troligen-dodligare</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/35156a7e-9300-48eb-8797-c48716de8d25?fit=crop&amp;h=493&amp;q=50&amp;w=942&amp;s=c35757831aa5a0c96b216df391ce95c087418cfa</UrlToImage>
+      <PublishedAt>2021-02-17T12:54:00Z</PublishedAt>
+    </Article>
+  </Articles>
+</NewsApiData>

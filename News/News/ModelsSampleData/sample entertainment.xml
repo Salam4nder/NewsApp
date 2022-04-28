@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>70</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Name>Sverigesradio.se</Name>
+      </Source>
+      <Author>Sveriges Radio</Author>
+      <Title>Meditation och långa bad – så laddar Tusse inför Mello - P4 Dalarna - Sveriges Radio</Title>
+      <Description>Tusse, eller Tousin Chiza som han heter, från Tällberg gör på lördagen debut i Melodifestivalen.
+Han ställs mot bland andra veteranen Charlotte Perelli ...</Description>
+      <Url>https://sverigesradio.se/artikel/meditation-och-langa-bad-sa-laddar-tusse-infor-mello</Url>
+      <UrlToImage>https://static-cdn.sr.se/images/161/1f35d0db-bb19-44d9-8482-d5d43cb1af58.png</UrlToImage>
+      <PublishedAt>2021-02-19T12:30:25Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Sydsvenskan.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Prinspar återvänder inte till kungligt liv - Sydsvenskan</Title>
+      <Description>Det brittiska prinsparet Harry och Meghan, vars formella titlar är hertig och hertiginna av Sussex, återvänder inte som arbetande medlemmar av den brittiska kungafamiljen, meddelar Buckingham Palace. I ett uttalande från slottet heter det att prinsparet</Description>
+      <Url>https://www.sydsvenskan.se/2021-02-19/prinspar-atervander-inte-till-kungligt-liv</Url>
+      <UrlToImage>https://www.sydsvenskan.se/images/1O8BLLUwnjBkoTjSfyUxgslLZlg.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T12:26:22Z</PublishedAt>
+      <Content>Få notiser direkt i webbläsaren!
+Med våra nyhetsnotiser får du senaste nytt om ämnen som du följer.Men för att kunna få notiser från oss måste du ge din webbläsare tillåtelse.
+Sätt igång!Avbryt
+Än… [+366 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.vf.se</Name>
+      </Source>
+      <Author>Erik Segerpalm</Author>
+      <Title>Mustaschs värmländske gitarrist om mello: ”Ingen liten cirkus” - Värmlands Folkblad</Title>
+      <Description>Gudarna ska veta att han inte är någon stor Melodifestivalvän, den värmländske hårdrocksgitarristen David Johannesson. Men på lördagen går han ändå in i jättetävlingen med sitt band Mustasch.</Description>
+      <Url>https://www.vf.se/2021/02/19/mustaschs-varmlandske-gitarrist-om-mello-ingen-liten-cirkus/</Url>
+      <UrlToImage>https://imengine.public.nwt.infomaker.io?uuid=f89e4c61-5e9c-53c7-bd76-161e4dcb76fd&amp;function=cropresize&amp;type=preview&amp;source=false&amp;q=75&amp;crop_w=0.99999&amp;crop_h=0.82607&amp;x=1.0E-5&amp;y=0.03361&amp;width=1200&amp;height=628</UrlToImage>
+      <PublishedAt>2021-02-19T12:13:00Z</PublishedAt>
+      <Content>Åh, nej!
+Använder du Adblocker?
+Vi ser att du använder en adblocker för att inaktivera annonser på vår sajt. 
+ Med hjälp av annonsintäkter kan vi fortsätta leverera riktiga nyheter baserade på fak… [+159 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>sara malm</Author>
+      <Title>Meghan och Harry klipper banden med kungahuset - Expressen</Title>
+      <Description>Meghan och prins Harry klipper nu de sista banden med det brittiska kungahuset. Buckingham Palace bekräftar i dag att de meddelat drottningen att de inte kommer att återvända i hennes tjänst – och blir av med sina hedersuppdrag. Beslutet kommer bara veckor in…</Description>
+      <Url>https://www.expressen.se/nyheter/kungligt/meghan-och-harry-klipper-banden-med-kungahuset/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/d5/84/d584582c26964d9695e7b704012f2bf8/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T12:08:00Z</PublishedAt>
+      <Content>När Meghan och prins Harry meddelade att de inte längre skulle vara arbetande kungligheter för ett år sedan kom de dock överens om en 12-månaders prövoperiod.
+De fick under tiden behålla några milit… [+1548 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.vk.se</Name>
+      </Source>
+      <Author>Sara Meidell</Author>
+      <Title>03:33 Dragspelsbok årets bästa bilderbok - Västerbottens-Kuriren</Title>
+      <Description>Åsa Lind och Emma Virke prisas med bilderbokspriset Snöbollen för Kom dagen kom natten.</Description>
+      <Url>https://www.vk.se/2021-02-19/dragspelsbok-arets-basta-bilderbok</Url>
+      <UrlToImage>https://vkmedia.imgix.net/C7iHNfWfDveKKBclisTYNLAw08g.jpg?auto=compress&amp;w=1200&amp;h=628&amp;crop=faces,edges&amp;fit=crop</UrlToImage>
+      <PublishedAt>2021-02-19T11:37:34Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>maria brander</Author>
+      <Title>Här är det nya svenska musikundret – på film - Expressen</Title>
+      <Description>Svenska popundret har ni förstås hört talas om. Men på senare år finns det även fog för att tala om ett svenskt musikunder på film. En stor del av den äran tillfaller förstås Ludwig Göransson, men även Tove Lo och Molly Sandén finns med i Hollywoodleken.</Description>
+      <Url>https://www.expressen.se/noje/maria-brander/har-ar-det-nya-svenska-musikundret-pa-film/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/10/d3/10d363d0300b48009290f43b28f281d7/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T11:00:00Z</PublishedAt>
+      <Content>Ludwig Göransson är egentligen ett litet mirakel i sig. Den 36-årige kompositören räknas numera till en av filmmusikvärldens absolut största namn, och är framöver både Golden globe-nominerad och Osca… [+2029 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>maria brander</Author>
+      <Title>”The Marksman” 2021: Recension och betyg - Expressen</Title>
+      <Description>Med ”The Marksman” fortsätter Liam Neesons nu tolv år långa sorgbearbetning efter hustrun Natasha Richardson död.</Description>
+      <Url>https://www.expressen.se/noje/sensmoralen-ar-feelgood-men-knappast-kvalitet-/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/51/af/51afbd63d91c4d4284e9e6b77c20d874/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T11:00:00Z</PublishedAt>
+      <Content>Vi använder cookies för att förbättra funktionaliteten på våra sajter, för att kunna rikta relevant innehåll och annonser till dig och för att vi ska kunna säkerställa att tjänsterna fungerar som de … [+32 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.svt.se</Name>
+      </Source>
+      <Author>https://www.facebook.com/svtnyheter</Author>
+      <Title>Lina Englund solodebuterar: Fick en liten knuff av andra musiker - Sveriges Television</Title>
+      <Description>Skådespelaren Lina Englund, känd för roller i bland annat Vinterviken och Arn-filmerna, gör nu sin solodebut.
+– Det här är det positiva när man får en liten paus. Plötsligt kan man mixa i lugn och ro, säger hon.</Description>
+      <Url>https://www.svt.se/kultur/lina-englund-solodebuterar-fick-en-liten-knuff-av-andra-musiker</Url>
+      <UrlToImage>https://www.svtstatic.se/image/custom/650/30216728/1613729505?format=auto&amp;ratio=1.91</UrlToImage>
+      <PublishedAt>2021-02-19T10:22:31Z</PublishedAt>
+      <Content>Redan under 90-talet släppte Lina Englund musik, i gruppen Selfish. Hon har också gjort musik till Riksteatern, men nu är det dags för solodebuten.
+ Jag fick en liten knuff från andra musiker som sa… [+70 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.dn.se</Name>
+      </Source>
+      <Author>Saga Malm</Author>
+      <Title>Jens Lapidus om nya boken ”Paradis city” - Dagens Nyheter</Title>
+      <Description>Deckarförfattaren Jens Lapidus är tillbaka med nya ”Paradis city”. En bladvändare som den här gången utspelar sig i en dystopisk framtid.</Description>
+      <Url>https://www.dn.se/kultur/jens-lapidus-atervander-hem-med-ny-dystopisk-bok/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/ce411278-b8e5-47a7-898f-abf3be54c7a2.jpeg?interpolation=lanczos-none&amp;fit=around%7C1024:576&amp;crop=1024:h;center,top&amp;output-quality=80&amp;output-format=auto</UrlToImage>
+      <PublishedAt>2021-02-19T10:04:49Z</PublishedAt>
+      <Content>Jens Lapidus hade slutat som advokat och flyttat till Mallorca. Där, ofta vid Caixa café vid Plaza Weiler i Palma de Mallorca, omgärdad av eleganta mallorkinska damer, inledde han skrivandet 2018.
+N… [+8210 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.sla.se</Name>
+      </Source>
+      <Author>Anna Fröjd</Author>
+      <Title>Elisa är redan nu redo för andra chansen - Skaraborgs Allehanda</Title>
+      <Description>På lördag är det dags för den tredje deltävlingen i Melodifestivalen.</Description>
+      <Url>https://www.sla.se/2021/02/19/elisa-ar-redan-nu-redo-for-andra-chansen/</Url>
+      <UrlToImage>https://imengine.public.nwt.infomaker.io/image.php?uuid=ed982ad4-eee4-5b90-a498-754941c4f802&amp;function=cropresize&amp;type=preview&amp;source=false&amp;q=75&amp;crop_w=0.99999&amp;crop_h=0.36529&amp;x=1.0E-5&amp;y=0.08158&amp;width=1200&amp;height=628</UrlToImage>
+      <PublishedAt>2021-02-19T10:00:00Z</PublishedAt>
+      <Content>Läs plus i 90 dagar för endast 90 kr!
+Därefter ordinarie pris 129 kr/månad. Du kan när som helst avsluta din prenumeration snabbt och enkelt online.
+&lt;ul&gt;&lt;li&gt;
+Tillgång till alla artiklar på sla.se… [+131 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>svenska-dagbladet</Id>
+        <Name>Svenska Dagbladet</Name>
+      </Source>
+      <Author>Dick Harrison</Author>
+      <Title>Dalslands landskapsvapen gick från snöpt till virilt - Svenska Dagbladet</Title>
+      <Description>Boskapsskötseln gav Dalsland dess landskapsvapen. Men inte alla dalslänningar uppskattade att symbolen för landskapet var en kastrerad tjur, dvs en oxe. 1942 tog en viril tjur oxens plats.</Description>
+      <Url>https://www.svd.se/dalslandskt-vapen-gick-fran-snopt-till-virilt</Url>
+      <UrlToImage>https://svd.vgc.no/v2/images/cf2fc840-dacd-4a4e-b6d5-e6fc7a1eb334?h=630&amp;q=80&amp;upscale=true&amp;w=1200&amp;s=1ce07fac8bc240fae8ab7fc72cef4374617284ae</UrlToImage>
+      <PublishedAt>2021-02-19T09:45:37Z</PublishedAt>
+      <Content>Fråga: På en middag härom veckan kom vi att diskutera landskapsvapen. Dalsland berömmer sig av att ha en ståtlig och viril tjur i sitt vapen, påstår åtminstone jag. Men en annan person, uppenbarligen… [+327 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.dn.se</Name>
+      </Source>
+      <Author>Nicholas Wennö</Author>
+      <Title>Nicholas Wennö tipsar om sevärda filmer och serier. - Dagens Nyheter</Title>
+      <Description>Brittisk mystik, bekännelser i Sydfrankrike, dansk erotik, brasiliansk fotbollshistoria och fokus på Stanley Kubrick, en världens bästa regissörer. Nicholas Wennö guidar till veckans bästa fynd i strömningsdjungeln.</Description>
+      <Url>https://www.dn.se/kultur/dns-nicholas-wenno-ger-veckans-basta-stromningstips-2/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/2565bc6d-8977-487c-b639-3a12b37874d4.jpeg?interpolation=lanczos-none&amp;fit=around%7C1024:576&amp;crop=1024:h;center,top&amp;output-quality=80&amp;output-format=auto</UrlToImage>
+      <PublishedAt>2021-02-19T09:12:35Z</PublishedAt>
+      <Content>Suranne Jones och Lennie James i Save me.
+Foto: Ross Sinclair
+Save me
+Comhem Play+
+Serieskapare: Lennie James
+Med: Lennie James, Suranne Jones, Stephen Graham m fl
+Mörk och gripande korsning av… [+6842 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Jonas Månsson</Author>
+      <Title>Komikern Mike Ward i domstol efter skämt om 13-åring - Aftonbladet</Title>
+      <Description>Hur får man egentligen skämta om en annan person? Den frågan ska nu prövas i Kanadas högsta domstol.  Där står komikern Mike Ward inför rätta efter att i en show ha skämtat om en ung funktionsvarierad pojke.</Description>
+      <Url>https://www.aftonbladet.se/nojesbladet/a/kRQLmv/komikerns-hanfulla-skamt-om-13-aring-tas-upp-i-hogsta-domstolen</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/ab0d5584-fd49-4184-a37f-e489de2f35b4?fit=crop&amp;h=900&amp;q=50&amp;w=1600&amp;s=71d06c2724d5276493c63c8240dce025bafeac58</UrlToImage>
+      <PublishedAt>2021-02-19T09:08:40Z</PublishedAt>
+      <Content>Drev med funktionsvarierad pojke
+Av: Jonas Månsson 
+Publicerad: 19 februari 2021 kl. 10.08
+Hur får man egentligen skämta om en annan person?
+Den frågan ska nu prövas i Kanadas högsta domstol. 
+D… [+2203 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.vf.se</Name>
+      </Source>
+      <Author>Erik Segerpalm</Author>
+      <Title>SVT gör miniserie om primadonnan Leander från Karlstad - Värmlands Folkblad</Title>
+      <Description>”Vill ni se en stjärna” är titeln på en kommande tv-serie baserad på sångerskan och skådespelaren Zarah Leanders liv.</Description>
+      <Url>https://www.vf.se/2021/02/19/svt-gor-miniserie-om-primadonnan-leander-fran-karlstad/</Url>
+      <UrlToImage>https://imengine.public.nwt.infomaker.io?uuid=20bef12d-ad25-5cd0-8c11-8ddb10c9d73b&amp;function=cropresize&amp;type=preview&amp;source=false&amp;q=75&amp;crop_w=0.99999&amp;crop_h=0.60144&amp;x=1.0E-5&amp;y=0.02256&amp;width=1200&amp;height=628</UrlToImage>
+      <PublishedAt>2021-02-19T08:34:00Z</PublishedAt>
+      <Content>Åh, nej!
+Använder du Adblocker?
+Vi ser att du använder en adblocker för att inaktivera annonser på vår sajt. 
+ Med hjälp av annonsintäkter kan vi fortsätta leverera riktiga nyheter baserade på fak… [+159 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Sverigesradio.se</Name>
+      </Source>
+      <Author>Sveriges Radio</Author>
+      <Title>Rekordmånga Oscarsdokumentärer i pandemins spår - Kulturnytt i P1 - Sveriges Radio</Title>
+      <Description>Medlemmarna i Oscarsjuryn för dokumentärfilm har haft en svettig vinter. En av dem är svenska dokumentärfilmaren Kasper Collin.</Description>
+      <Url>https://sverigesradio.se/artikel/rekordmanga-oscarsdokumentarer-i-pandemins-spar</Url>
+      <UrlToImage>https://static-cdn.sr.se/images/478/42ba1cef-b315-4d87-b24d-4eaeee16e966.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T08:10:24Z</PublishedAt>
+      <Content>I år var hela 238 dokumentärer med i startfältet i Oscarsracet. Och det är nytt rekord med råge. 2017 var 170 dokumentärer med.
+Dokumentärfilmaren Kasper Collin gör sitt första år i juryn efter fram… [+1904 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.dn.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Dolly Parton tackar nej till staty av sig själv - DN.SE - Dagens Nyheter</Title>
+      <Description>En Dolly Parton-staty mitt i Nashville, det vill Tennessees folkvalda se. Men någon staty vill föremålet själv inte veta av.</Description>
+      <Url>https://www.dn.se/kultur/dolly-parton-inte-lampligt-att-satta-mig-pa-piedestal/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/57eb6b2c-51c0-4551-b5e1-3c7c667f20c9.jpeg?interpolation=lanczos-none&amp;fit=around%7C1024:576&amp;crop=1024:h;center,top&amp;output-quality=80&amp;output-format=auto</UrlToImage>
+      <PublishedAt>2021-02-19T07:01:27Z</PublishedAt>
+      <Content>De styrande i Tennessee vill resa en staty över Dolly Parton utanför klassiska country-templet Ryman Auditorium i centrala Nashville, såväl delstatens som countryns huvudstad. Förslaget lades fram i … [+1782 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>goteborgs-posten</Id>
+        <Name>Göteborgs-Posten</Name>
+      </Source>
+      <Author>Johan Lindqvist</Author>
+      <Title>Recension: Kjell Andersson - ”Ingen går hel ur det här” | GP - Göteborgs-Posten</Title>
+      <Description>Kjell Andersson och Ulf Lundell gjorde konstnärliga stordåd och hatar varandra.</Description>
+      <Url>https://www.gp.se/kultur/recension-ingen-går-hel-ur-det-här-av-kjell-andersson-1.41698078</Url>
+      <UrlToImage>http://www.gp.se/image/policy:1.41698065:1613725164/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a</UrlToImage>
+      <PublishedAt>2021-02-19T07:00:00Z</PublishedAt>
+      <Content>Kort introduktion. Kjell Andersson präglade svensk pop och rockmusik från andra halvan av 70-talet och i alla fall trettio år framåt. Mest välbekant är det nära samarbetet med Ulf Lundell men Kjell A… [+5405 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Markus Larsson</Author>
+      <Title>Bo Sundström: Det kanske händer - Recension - Aftonbladet</Title>
+      <Description>ALBUM Bo Sundström spanar efter en tid som flytt. I den avslappnade nostalgin kan hans röst skina på ett nytt sätt. Markus Larsson recenserar jazzalbumet ”Det kanske händer”.</Description>
+      <Url>https://www.aftonbladet.se/nojesbladet/musik/a/dlk0Qq/klar-skickligt-jazzklassiker-i-nya-ord</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/dfa4a223-1a06-4f63-80fa-55b777a96f12?fit=crop&amp;h=708&amp;q=50&amp;w=1200&amp;s=44c3b60dad19993695555806a8ef0a8ccb429b9b</UrlToImage>
+      <PublishedAt>2021-02-19T06:47:00Z</PublishedAt>
+      <Content>Av: Markus Larsson
+Publicerad: 19 februari 2021 kl. 07.47Uppdaterad: 19 februari 2021 kl. 09.48
+ALBUM Bo Sundström spanar efter en tid som flytt. 
+I den avslappnade nostalgin får hans röst skina p… [+2475 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Jonas Månsson</Author>
+      <Title>Tekashi 6ix9ine sågas av regissör: En hemsk person - Aftonbladet</Title>
+      <Description>Ett storbråk har brutit ut inför premiären av en dokumentärserie om skandalrapparen Tekashi 6ix9ine.  Nu sågas han rejält av regissören Karam Gill inför premiären.  – En hemsk person, säger han till amerikanska Page six.</Description>
+      <Url>https://www.aftonbladet.se/nojesbladet/a/2dmgXr/regissoren-sagar-tekashi-6ix9ine-utan-talang-och-moral</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/d100e00a-eb94-4609-92a0-3c782cfdec5b?fit=crop&amp;h=900&amp;q=50&amp;w=1600&amp;s=aae4aba7eacf0c03a34481c9cbf7184542cd1aee</UrlToImage>
+      <PublishedAt>2021-02-19T06:03:49Z</PublishedAt>
+      <Content>Hårda orden inför dokumentärserien om rapparen
+Av: Jonas Månsson 
+Publicerad: 19 februari 2021 kl. 07.03
+Ett storbråk har brutit ut inför premiären av en dokumentärserie om skandalrapparen Tekashi… [+2097 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.dn.se</Name>
+      </Source>
+      <Author>Alexander Mahmoud, Josefin Sköld, Patrik Lundberg</Author>
+      <Title>Kusinerna adopterades från två kontinenter – bådas dokument var förfalskade - DN.SE - Dagens Nyheter</Title>
+      <Description>Madeleine och Caroline upptäckte att dokumenten om deras ursprung var falska. DN granskar Sveriges roll i de internationella adoptionerna.</Description>
+      <Url>https://www.dn.se/sverige/kusinerna-adopterades-fran-tva-kontinenter-badas-dokument-var-forfalskade/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/1f412035-9928-4f1d-86ed-b9e2510df532.jpeg?interpolation=lanczos-none&amp;fit=inside%7C1024:576&amp;output-quality=80&amp;output-format=auto</UrlToImage>
+      <PublishedAt>2021-02-19T05:55:44Z</PublishedAt>
+      <Content>När Madeleine In-hwa Björk kom till världen hade hon redan levt i ett och ett halvt år.
+Det hände på Arlanda, en februaridag 1985. Där fick hon sitt nya namn, sina nya föräldrar och sin nya storebro… [+12163 chars]</Content>
+    </Article>
+  </Articles>
+</NewsApiData>

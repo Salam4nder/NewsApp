@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>70</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Name>Sverigesradio.se</Name>
+      </Source>
+      <Author>Sveriges Radio</Author>
+      <Title>Sandra Näslunds succé fortsätter – vann världscuptävlingen i Österrike - Sveriges Radio</Title>
+      <Description>I österrikiska Reiteralm vann Sandra Näslund världscuptävlingen i skicross. 
+Efter framgångarna på VM i Idre där Näslund vann guld, imponerade hon ...</Description>
+      <Url>https://sverigesradio.se/artikel/sandra-naslunds-succe-fortsatter-vann-varldscuptavlingen-i-osterrike</Url>
+      <UrlToImage>https://static-cdn.sr.se/images/179/c3763370-970a-41b7-970e-c1e90fdcb17c.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T11:58:25Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.dn.se</Name>
+      </Source>
+      <Author>Lisa Skeppstedt</Author>
+      <Title>Tennisbasen: ”Jag kan gå rakt in och prata med Federer eller Nadal” - DN.SE - Dagens Nyheter</Title>
+      <Description>Med hela världen som arbetsplats har Lars Graff styrt bakom tenniscirkusens kulisser. Nu kliver han in i en ny roll som turneringsdirektör i Kina.</Description>
+      <Url>https://www.dn.se/sport/tennisbasen-jag-kan-ga-rakt-in-och-prata-med-federer-eller-nadal/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/b7926cff-0d62-453d-9c53-e173e1c93c33.jpeg?interpolation=lanczos-none&amp;fit=around%7C1024:576&amp;crop=1024:h;center,top&amp;output-quality=80&amp;output-format=auto</UrlToImage>
+      <PublishedAt>2021-02-19T11:43:37Z</PublishedAt>
+      <Content>Med hela världen som arbetsplats har Lars Graff styrt bakom tenniscirkusens kulisser. Nu kliver han in i en ny roll som turneringsdirektör i Kina. I en intervju berättar skåningen om kräsna Pekingpub… [+150 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>goteborgs-posten</Id>
+        <Name>Göteborgs-Posten</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Supersviten fortsätter – Medvedev till final - Göteborgs-Posten</Title>
+      <Description>Novak Djokovic är regerande mästare och har aldrig förlorat en Australian Open-final. Men är han ens favorit den här gången? Motståndaren Daniil Medvedev utklassade Stefanos Tsitsipas i semifinalen och tycks för tillfället oslagbar. – All press är på Djokovic…</Description>
+      <Url>https://www.gp.se/sport/supersviten-fortsätter-medvedev-till-final-1.41749414</Url>
+      <UrlToImage>http://www.gp.se/image/policy:1.41749409:1613733976/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a</UrlToImage>
+      <PublishedAt>2021-02-19T11:26:15Z</PublishedAt>
+      <Content>Redan finalklare Novak Djokovic sade att han skulle ta fram en skål med popcorn och följa semifinalen mellan Daniil Medvedev och Stefanos Tsitsipas.
+Frågan är om matchen gav den serbiske världsettan… [+2340 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>ibraheem alsalman</Author>
+      <Title>Caroline Seger om talangerna i landslaget: ”Finns alltid här” - Expressen</Title>
+      <Description>OS är ett halvår bort. Sverige spelar årets första match mot Österrike – och i truppen finns det fyra spelare med noll landskamper – bland annat Rosa Kafaji, 17, och Hanna Lundkvist, 18. – Jag finns alltid här om de behöver hjälp, säger Caroline Seger.</Description>
+      <Url>https://www.expressen.se/sport/fotboll/landslaget/finns-alltid-har-om-de-behover-hjalp/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/53/63/53636bb067ae44e38facb3c758d6b58d/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T11:26:00Z</PublishedAt>
+      <Content>Ett vanligt år brukar det vara Algarve cup i Portugal. Men på grund av pandemin har turneringen ställts in och damlandslaget valde i stället att resa till Malta där de ska spela två träningsmatcher, … [+1632 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>vendela ögren</Author>
+      <Title>Djurgårdens svar efter brevet - Expressen</Title>
+      <Description>Djurgården fick ett ”skarpt brev” efter Kim Bergstrands uttalande om Nazityskland. Nu har klubben svarat och antar IHRA-definitionen av antisemitism. – Jag tror de är första idrottsklubben i Sverige som gör det, säger Jessica Lewin, kommunikationsansvarig på …</Description>
+      <Url>https://www.expressen.se/sport/fotboll/allsvenskan/efter-kritiken-dif-gor-som-chelsea/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/b2/c8/b2c8d3f01cfe41e8a83062a9b19c88d2/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T11:18:00Z</PublishedAt>
+      <Content>Det var i en intervju med Aftonbladet Djurgårdens tränare refererade till tyskt ledarskap under 1930- och 1940-talet som något man kan dra lärdom av.
+ Man kan säga vad man vill om några hemska männi… [+2638 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Fotbolldirekt.se</Name>
+      </Source>
+      <Author>Anton Zetterman</Author>
+      <Title>JUST NU: Elfsborg värvar från Austria Wien - FotbollDirekt</Title>
+      <Description>Även meriter från Portugal</Description>
+      <Url>https://fotbolldirekt.se/2021/02/19/just-nu-elfsborg-varvar-fran-austria-wien-tar-in-spannande-forsvarsnamn</Url>
+      <UrlToImage>https://static-emp.s3.amazonaws.com/3/images/bb210219jj016-1-1613733089.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T11:17:29Z</PublishedAt>
+      <Content>×1. VILLKORENS TILLÄMPLIGHET
+För att få tillgång till plus-tjänsten måste du ingå ett avtal med ESMG genom att registrera dig och betala prenumerationsavgiften.
+2. PLUS-TJÄNSTENS INNEHÅLL
+ESMG för… [+10114 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Fotbollskanalen.se</Name>
+      </Source>
+      <Title>Allsvenskan Officiellt: Jonathan Ring klar för Kalmar FF igen 11:57 - Fotbollskanalen</Title>
+      <Description>Jonathan Ring blir kvar i allsvenskan efter flytten från Djurgården.Yttern återvänder till Kalmar FF.- Det känns bra att få komma hit och jobba med Henrik (Rydström) som tränare, säger Ring till klubbens hemsida.</Description>
+      <Url>https://www.fotbollskanalen.se/allsvenskan/officiellt-jonathan-ring-klar-for-kalmar-ff-igen/</Url>
+      <UrlToImage>https://www.fotbollskanalen.se/ImageHandler.axd?epslanguage=sv&amp;guid=8fe9de52-b5fd-4ae5-b758-29f7e02fd160&amp;imageFormat=original</UrlToImage>
+      <PublishedAt>2021-02-19T10:57:00Z</PublishedAt>
+      <Content>Den senaste tiden har Jonathan Ring kopplats ihop med norska Strömsgodset och bulgariska Botev Plovdiv. Men det blir alltså fortsatt spel i Sverige.
+Kalmar FF har presenterat 29-åringen på sin hemsi… [+1319 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>johan svensson, adam johansson</Author>
+      <Title>William Wallinder lämnar Modo – klar för Rögle i SHL - Expressen</Title>
+      <Description>Den JVM-uttagne backen William Wallinder har uppvaktats hårt av en rad SHL-klubbar under vintern. Nu har Modobacken gjort sitt val. Kvällsposten kan avslöja att Wallinder bestämt sig för att spela i Rögle från och med nästa säsong. – Vi kommenterar aldrig om …</Description>
+      <Url>https://www.expressen.se/kvallsposten/sport/hockey/shl/talangen-har-gjort-sitt-val-klar-for-spel-i-shl/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/ef/86/ef868a2d3b4044a48718c9dbee5b16b8/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T10:35:00Z</PublishedAt>
+      <Content>18-åringen är en i raden av talangfulla backar som kommit fram i Modos organisation de senaste säsongerna.
+SHL-klubbarna var intresserade av honom redan inför denna säsong, men han bestämde sig unde… [+1092 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Andreas Käck, Linn Nordström</Author>
+      <Title>Skidskytte-VM: Johanna Skottheim kör stafetten för Sverige - Aftonbladet</Title>
+      <Description>POKLJUKA. Mona Brorssons VM-mardröm fortsätter. Nu petas hon även i stafetten. Johanna Skottheim tar den fjärde och sista platsen istället.  – Det här var kanske den svåraste uttagning vi gjort de senaste åren, säger landslagstränaren Mattias Nilsson.</Description>
+      <Url>https://www.aftonbladet.se/sportbladet/a/JJByrX/mona-brorsson-petas-igen-i-stafetten</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/efc7e751-5c47-4656-8f79-28a53669736c?fit=crop&amp;h=742&amp;q=50&amp;w=1417&amp;s=6eede7d6fb7c87576e96da903901b77491eb08de</UrlToImage>
+      <PublishedAt>2021-02-19T10:32:07Z</PublishedAt>
+      <Content>Mona Brorsson petas igen i stafetten
+Skottheim får chansen i stället
+Av: Andreas Käck, Linn Nordström
+Publicerad: 19 februari 2021 kl. 11.32Uppdaterad: 19 februari 2021 kl. 13.03
+POKLJUKA. Mona B… [+2745 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.dn.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Wada rasar mot frikännande dom för OS-mästare - DN.SE - Dagens Nyheter</Title>
+      <Description />
+      <Url>https://www.dn.se/sport/wada-rasar-mot-frikannande-dom-for-os-mastare/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/23b81ba0-b78c-48c0-a515-b7f9853f773b.jpeg?interpolation=lanczos-none&amp;fit=around%7C1024:576&amp;crop=1024:h;center,top&amp;output-quality=80&amp;output-format=auto</UrlToImage>
+      <PublishedAt>2021-02-19T10:14:11Z</PublishedAt>
+      <Content>Schwazer tog OS-guld på 50 kilometer i Peking 2008. Han stängdes av i tre år och nio månader 2012 efter att ha erkänt bloddopning. 2016 var han tillbaka och tog VM-guld, men stängdes sedan av i åtta … [+1109 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>vendela ögren</Author>
+      <Title>Utsatt för rasism mitt under match - Expressen</Title>
+      <Description>Zlatan Ibrahimovic fanns inte med på planen när Milan ställdes mot Röda Stjärnan under torsdagskvällen. På läktaren utsattes han för rasistiska tillrop. – Ett av de mest nedlåtande man kan använda om en muslim, säger Sanimir Resic, docent i historia vid Lunds…</Description>
+      <Url>https://www.expressen.se/sport/fotboll/video-visar-zlatan-utsatt-for-rasism/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/96/f3/96f3d980c1a8428cb4c61708c7ea6c66/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T10:00:00Z</PublishedAt>
+      <Content>Milan spelade 2-2 borta mot Röda Stjärnan i första mötet av två i sextondelsfinalen i Europa League under torsdagskvällen.
+Lagets stora stjärna Zlatan Ibrahimovic satt på läktaren hela matchen i Bel… [+994 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Micke Nybrink</Author>
+      <Title>Det säger pang direkt – sen är loppet över - Aftonbladet</Title>
+      <Description>Håll för öronen för spiken öppnar så det smäller. Sen hittar de inte Adielsson – inte nu heller. Han gör en Morotai Degato, tack och hej.</Description>
+      <Url>https://www.aftonbladet.se/sportbladet/trav365/a/56j46e/det-sager-pang-direkt--sen-ar-loppet-over</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/4cedb135-27c9-472c-9bab-c78e47c75801?fit=crop&amp;h=300&amp;q=50&amp;w=600&amp;s=486a425e0b90416e3d0edb8f888d02d4bbac2d25</UrlToImage>
+      <PublishedAt>2021-02-19T09:37:26Z</PublishedAt>
+      <Content>Nybrinks V75-analys till Mantorp Lopp för lopp Tre bästa Systemet lördagen den 20 februari Jackpott 50 miljoner
+Publicerad: 19 februari 2021 kl. 10.37
+Håll för öronen för spiken öppnar så det smäll… [+3967 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Sverigesradio.se</Name>
+      </Source>
+      <Author>Sveriges Radio</Author>
+      <Title>Bäckströms poängform håller i sig – bästa starten sedan 2007 - Radiosporten - Sveriges Radio</Title>
+      <Description>Det blev ett mål igen för Nicklas Bäckström när hans Washington besegrade Buffalo med 3-1. 
+Han har nu gjort åtta mål och tolv assist, och leder ...</Description>
+      <Url>https://sverigesradio.se/artikel/backstroms-poangform-haller-i-sig-basta-starten-sedan-2007</Url>
+      <UrlToImage>https://static-cdn.sr.se/images/179/390dfe5b-a0f6-4849-9f5c-458f1c2134e9.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T08:01:15Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Id>goteborgs-posten</Id>
+        <Name>Göteborgs-Posten</Name>
+      </Source>
+      <Author>Andreas Johnsson</Author>
+      <Title>Premier League: Wilfried Zaha tänker inte knäböja mer | GP - Göteborgs-Posten</Title>
+      <Description>Wilfried Zaha tänker inte knäböja i samband med matcher längre. Det berättar Crystal Palace stjärna i en intervju med The Times. – Det är förnedrande, säger han till tidningen.</Description>
+      <Url>https://www.gp.se/sport/fotboll/wilfried-zaha-tänker-inte-knäböja-mer-1.41735383</Url>
+      <UrlToImage>http://www.gp.se/image/policy:1.41735365:1613719517/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a</UrlToImage>
+      <PublishedAt>2021-02-19T07:25:20Z</PublishedAt>
+      <Content>Att knäböja i samband med match har sträcker sig bak till 2016, då NFL-stjärnan Colin Kaepernick valde att gå ned på knä i samband med nationalsången i protest mot rasismen i USA. 
+ Jag kommer inte … [+2512 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.dn.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>LeBron James över 35.000 poäng – tredje i NBA - DN.SE - Dagens Nyheter</Title>
+      <Description />
+      <Url>https://www.dn.se/sport/lebron-james-over-35-000-poang-tredje-i-nba/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/f97967d9-5b14-4db1-a0ce-203eba156df6.jpeg?interpolation=lanczos-none&amp;fit=around%7C1024:576&amp;crop=1024:h;center,top&amp;output-quality=80&amp;output-format=auto</UrlToImage>
+      <PublishedAt>2021-02-19T07:06:44Z</PublishedAt>
+      <Content>Under mötet med Brooklyn Nets, som Lakers förlorade med 98109, lyckades han precis ta sig över 35.000-gränsen. Med två poäng till godo blir James den tredje NBA-spelaren genom tiderna att ha gjort me… [+520 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Mattias Karlsson</Author>
+      <Title>Markus Svensson väntar tvillingar och tar uppehåll - Aftonbladet</Title>
+      <Description>Markus Svensson har tackat nej till ett flertal SHL-klubbar den senaste tiden. Den välmeriterade målvakten avslöjar nu att det beror på att paret väntar enäggstvillingar. – Jag vill inte hamna i en känsla där jag sviker ett lag, sedan kan man inte riktigt ta …</Description>
+      <Url>https://www.aftonbladet.se/sportbladet/hockey/a/qAkMEE/darfor-forsvann-stjarnan-vantar-enaggstvillingar</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/269d1bbc-ff2a-4812-85e7-b32f8e09295b?fit=crop&amp;h=997&amp;q=50&amp;w=1900&amp;s=3d6812c11de0cc3d69def292498d5833576fd1d7</UrlToImage>
+      <PublishedAt>2021-02-19T07:03:09Z</PublishedAt>
+      <Content>Av: Mattias Karlsson
+Publicerad: 19 februari 2021 kl. 08.03Uppdaterad: 19 februari 2021 kl. 08.18
+Markus Svensson har tackat nej till ett flertal SHL-klubbar den senaste tiden.
+Den välmeriterade m… [+1994 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.dn.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Skakig start för svensk debutant på PGA-touren - DN.SE - Dagens Nyheter</Title>
+      <Description>Den svenske golfamatören Tim Widing har fått göra debut på PGA-touren. Men bäst av de tre blågula hoppen på Riviera Country Club var Alex Norén.</Description>
+      <Url>https://www.dn.se/sport/skakig-start-for-svensk-debutant-pa-pga-touren/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/f26e7fcc-7a8e-43b7-ba00-8dad33804602.jpeg?interpolation=lanczos-none&amp;fit=around%7C1024:576&amp;crop=1024:h;center,top&amp;output-quality=80&amp;output-format=auto</UrlToImage>
+      <PublishedAt>2021-02-19T06:52:01Z</PublishedAt>
+      <Content>Tim Widing fick ladda länge inför sin debut på PGA-touren. 23-åringen gick ut i torsdagens allra sista boll, men väl på banan visade han att nerverna inledningsvis såg ut att ha stannat i klubbhuset.… [+1195 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>anna friberg</Author>
+      <Title>Skidskytte-VM 2021 • Dorothea Wierer saknar festlivet – vill ta paus - Expressen</Title>
+      <Description>POKLJUKA. Dorothea Wierer har haft en tuff säsong. Och nu berättar den italienska storstjärnan att hon saknar festlivet. – Nu är det bara skidskytte. Vissa dagar är så vansinnigt tråkiga, säger Wierer till Dagbladet .</Description>
+      <Url>https://www.expressen.se/sport/skidskytte/stjarnan-vill-ta-paus-saknar-att-fa-festa/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/62/01/6201aa4a5f5f44a6bdd6e017756fae82/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T06:39:00Z</PublishedAt>
+      <Content>Två individuella guld, ett individuellt silver och silver i mixedstafetten. Skidskytte-VM i Antholz i februari förra året blev en enorm framgång för Dorothea Wierer.
+Tillsammans med norskan Marte Ol… [+1825 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Sydsvenskan.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Måltorkan över för William Nylander - Sydsvenskan</Title>
+      <Description>Poängtorkan är över. William Nylander slog till med både mål och assist när Toronto utklassade Ottawa med 7–3 i NHL-ishockeyn. Samtidigt passade Washingtons Nicklas Bäckström på att förlänga sin poängsvit. Sex matcher hann passera utan att Torontos forw</Description>
+      <Url>https://www.sydsvenskan.se/2021-02-19/maltorkan-over-for-william-nylander</Url>
+      <UrlToImage>https://www.sydsvenskan.se/images/HztHx2S_MA8dprwYszGKSD_Cdoc.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T06:34:38Z</PublishedAt>
+      <Content>Få notiser direkt i webbläsaren!
+Med våra nyhetsnotiser får du senaste nytt om ämnen som du följer.Men för att kunna få notiser från oss måste du ge din webbläsare tillåtelse.
+Sätt igång!Avbryt
+Än… [+366 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>petter landén</Author>
+      <Title>NFL-stjärnan Vincent Jackson hittad död - Expressen</Title>
+      <Description>NFL-världen har drabbats av ännu ett tragiskt dödsfall. Vincent Jackson, tidigare wide receiver i San Diego Chargers och Tampa Bay Buccaneers, hittades på måndagen död i sitt hotellrum. Han blev 38 år gammal.</Description>
+      <Url>https://www.expressen.se/sport/nfl/nfl-stjarnan-hittades-dod-pa-sitt-hotellrum/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/00/2a/002af8130cd94c22b62ddddafe2b8c7f/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T06:19:00Z</PublishedAt>
+      <Content>De senaste åren har en rad före detta NFL-spelare dött unga. Drew Wahlroos blev 37 år, Kevin Greene blott 58 år och kanske mest känd: Aaron Hernandez som dog i sin fängelsecell endast 27 år gammal. … [+1207 chars]</Content>
+    </Article>
+  </Articles>
+</NewsApiData>

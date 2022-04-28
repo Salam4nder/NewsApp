@@ -1,0 +1,38 @@
+<?xml
+    version = "1.0"
+    encoding = "utf-8"?>
+
+<ContentPage
+    xmlns = "http://xamarin.com/schemas/2014/forms"
+    xmlns:x = "http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+    xmlns:system = "clr-namespace:System;assembly=netstandard"
+    Title="Safe Area"
+    ios:Page.UseSafeArea="true"
+    x:Class = "News.Views.NewsPage">
+    <StackLayout>
+        <Button Text="Refresh" Clicked="Button_OnClicked"></Button>
+            <Label x:Name="Label" Text="{Binding .}"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center">
+            </Label>
+        <Grid>
+            <ActivityIndicator IsRunning="False" x:Name="ActivityIndicator" 
+                               HorizontalOptions="Center"
+                               VerticalOptions="Center">
+      </ActivityIndicator>
+        </Grid>
+        <Grid>
+        <ListView x:Name="NewsList" ItemTapped="NewsList_OnItemTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ImageCell ImageSource="{Binding UrlToImage}"
+                               Detail="{Binding DateTime, StringFormat='{0:dddd, dd MMMM yyyy hh:mm}'}"
+                               Text="{Binding Title}">
+                    </ImageCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>9</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Name>Www.vk.se</Name>
+      </Source>
+      <Author>Västerbottens-Kuriren</Author>
+      <Title>Smitta spreds snabbt – av personal utan symtom - Västerbottens-Kuriren</Title>
+      <Description>Socialkontoret i Skellefteå har anmält flera allvarliga tillbud till Arbetsmiljöverket som gäller covid-19-smitta på boenden bland personal. Anmälningarna ger en fingervisning om hur lätt och snabbt covid-19 sprids.</Description>
+      <Url>https://www.vk.se/2021-02-19/smitta-spreds-snabbt-av-personal-utan-symtom</Url>
+      <UrlToImage>https://vkmedia.imgix.net/efIMUpnYDOCuSEZZCBn8R9mp8jY.jpg?auto=compress&amp;w=973&amp;h=509&amp;crop=faces,edges&amp;fit=crop</UrlToImage>
+      <PublishedAt>2021-02-19T08:58:12Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Corren.se</Name>
+      </Source>
+      <Author>Kerstin Sjöberg (C), regionråd och gruppledare Region Östergötland</Author>
+      <Title>Det är viktigt att väga riskerna mot nyttan - Östgöta Correspondenten</Title>
+      <Description>De som har störst risk att bli allvarligt sjuka vaccineras först. Det är viktigt att vi håller fast vid den ordningen.</Description>
+      <Url>https://www.corren.se/artikel/r075o7dl</Url>
+      <UrlToImage>https://dms-api.ntm.eu/api/v1/images/r96dvxzr/ratio/rw/3/rh/2/width/1200</UrlToImage>
+      <PublishedAt>2021-02-19T05:28:21Z</PublishedAt>
+      <Content>I alla tider har mänskligheten plågats av sjukdomar och infektioner. Ett sätt att stärka immunförsvaret är genom vaccination. År 1796 uppfann Edward Jenner det första vaccinet. På den tiden dog miljo… [+3143 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>goteborgs-posten</Id>
+        <Name>Göteborgs-Posten</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Mutation gör vissa toleranta mot kyla | GP - Göteborgs-Posten</Title>
+      <Description>På grund av en mutation saknar en av fem ett visst protein i sina muskelfibrer, vilket gör att de tål kyla bättre än andra. Mutationen är vanligare i kalla länder och tros ha gett människor i dessa länder en fördel.</Description>
+      <Url>https://www.gp.se/nyheter/sverige/mutation-gör-vissa-toleranta-mot-kyla-1.41720836</Url>
+      <UrlToImage>http://www.gp.se/image/policy:1.41720835:1613676730/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a</UrlToImage>
+      <PublishedAt>2021-02-18T19:32:06Z</PublishedAt>
+      <Content>Efter att ha låtit 42 friska män sitta och frysa i 14-gradigt vatten, är professor Håkan Westerblad säker på sin sak: en hyfsat vanlig mutation, som gör att ett muskelprotein saknas, resulterar i att… [+2037 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.svt.se</Name>
+      </Source>
+      <Author>https://www.facebook.com/svtnyheter</Author>
+      <Title>Brittiska mutationen sprids i regioner - Sveriges Television</Title>
+      <Description>SVT:s nyhetstjänst med nyheter från hela Sverige och världen inom kultur, sport, opinion och väder.</Description>
+      <Url>https://www.svt.se/nyheter/snabbkollen/brittiska-mutationen-sprids-i-regioner</Url>
+      <UrlToImage>https://www.svtstatic.se/image/custom/650/27820031/1?format=auto&amp;ratio=1.91</UrlToImage>
+      <PublishedAt>2021-02-18T16:52:55Z</PublishedAt>
+      <Content>Den brittiska varianten av covid-19 ökar i alla regioner, enligt
+Folk- hälsomyndigheten. Den är naturlig, men kan påverka en
+eventuell tredje våg. 
+ Det påverkar hur stor en tredje våg blir i
+de … [+357 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.unt.se</Name>
+      </Source>
+      <Title>Nya coronavarianter sprids i Norden - Upsala Nya Tidning</Title>
+      <Description>En ny muterad variant av coronaviruset har upptäckts i Norge, Danmark, Storbritannien och USA. Enligt norska Folkehelseinstituttet (FHI) kan den vara mer smittsam. Även i Finland har en ny, potentiellt smittsammare variant upptäckts</Description>
+      <Url>https://www.unt.se/artikel/r5yekdqj</Url>
+      <UrlToImage>https://dms-api.ntm.eu/api/v1/images/j86x361r/ratio/rw/3/rh/2/width/1200</UrlToImage>
+      <PublishedAt>2021-02-18T16:13:35Z</PublishedAt>
+      <Content>Vd, chefredaktör och ansvarig utgivare: Kalle Sandhammar
+Tf Politisk chefredaktör: Johan Rudström
+Redaktionschef och stf ansvarig utgivare: Roger Berglund
+Nyhetschefer: Matilda Andersson, Jonas Ki… [+31 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Expressen.se</Name>
+      </Source>
+      <Author>max sohl stjernberg, daniel ingmo, filippa rogvall</Author>
+      <Title>Oron efter mutationsutbrottet – kan ställla om vaccinationsplan - Expressen</Title>
+      <Description>Vaccinplanen hotas om den sydafrikanska virusstammen blir dominerande, anser forskaren Farshid Jalalvand, som oroar sig för klusterutbrottet i Västmanland. Enligt Sara Byfors vid Folkhälsomyndigheten är det dock snarast den brittiska mutationen som tar över: …</Description>
+      <Url>https://www.expressen.se/nyheter/coronaviruset/oron-kan-behova-stalla-om-vaccinationsplanen/</Url>
+      <UrlToImage>https://static.cdn-expressen.se/images/1f/e7/1fe72f2ed3d749c4a9cdcfcd92c1fe79/16x9/original.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T11:30:00Z</PublishedAt>
+      <Content>Den sydafrikanska mutationen B.1.351 har påträffats hos 20 personer i Västmanland. 
+Upptäckten kom efter att regionen började utföra utökade screeningar så kallat övervaknings-PCR för mutationsvaria… [+6470 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Sara Milstead</Author>
+      <Title>Virushybrid av coronaviruset upptäckt i USA - Aftonbladet</Title>
+      <Description>En hybrid av två corona-mutationer har upptäckts i USA. Det nya, kraftigt förändrade viruset kan både vara mer smittsamt och bättre på att undkomma vaccin. Nu pratar forskarna om en ny fas i pandemin.</Description>
+      <Url>https://www.aftonbladet.se/nyheter/a/VqGre1/virushybrid-upptackt-i-usa</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/3ba8879c-3f87-4be3-8624-4a44cea433d7?fit=crop&amp;h=994&amp;q=50&amp;w=1900&amp;s=39e8e3b885edf68da4250267e2d4ec66a58edbb8</UrlToImage>
+      <PublishedAt>2021-02-18T09:11:00Z</PublishedAt>
+      <Content>Kombination av två coronavirus oroar forskare 
+Av: Sara Milstead
+Publicerad: 18 februari 2021 kl. 10.11Uppdaterad: 18 februari 2021 kl. 11.22
+En hybrid av två corona-mutationer har upptäckts i USA… [+3241 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Vimmerbytidning.se</Name>
+      </Source>
+      <Title>Antikroppar? Så här ska du agera – Vimmerby Tidning - Vimmerby Tidning</Title>
+      <Description>Att man har antikroppar är ingen garanti för att inte få covid -19 en gång till. Nya virusmutationer kan göra dig sjuk igen.</Description>
+      <Url>https://www.vimmerbytidning.se/artikel/lz9kny1j</Url>
+      <UrlToImage>https://dms-api.ntm.eu/api/v1/images/5lzo57zj/ratio/rw/3/rh/2/width/1200</UrlToImage>
+      <PublishedAt>2021-02-18T08:52:47Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.unt.se</Name>
+      </Source>
+      <Title>Över 200 nya smittade i länet – Upsala Nya Tidning - Upsala Nya Tidning</Title>
+      <Description>Vi direktrapporterar om senaste nytt gällande det nya coronaviruset och hur det påverkar Uppsalaregionen.</Description>
+      <Url>https://www.unt.se/artikel/7rk7mxwj</Url>
+      <UrlToImage>https://dms-api.ntm.eu/api/v1/images/wjvdyzoj/ratio/rw/3/rh/2/width/1200</UrlToImage>
+      <PublishedAt>2020-05-13T10:35:11Z</PublishedAt>
+      <Content>Vd, chefredaktör och ansvarig utgivare: Kalle Sandhammar
+Tf Politisk chefredaktör: Johan Rudström
+Redaktionschef och stf ansvarig utgivare: Roger Berglund
+Nyhetschefer: Matilda Andersson, Jonas Ki… [+31 chars]</Content>
+    </Article>
+  </Articles>
+</NewsApiData>

@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>65</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Name>Www.svt.se</Name>
+      </Source>
+      <Author>https://www.facebook.com/svtnyheter</Author>
+      <Title>Ygeman (S) kallas till näringsutskottet - Sveriges Television</Title>
+      <Description>SVT:s nyhetstjänst med nyheter från hela Sverige och världen inom kultur, sport, opinion och väder.</Description>
+      <Url>https://www.svt.se/nyheter/snabbkollen/ygeman-s-kallas-till-naringsutskottet</Url>
+      <UrlToImage>https://www.svtstatic.se/image/custom/650/27820031/1?format=auto&amp;ratio=1.91</UrlToImage>
+      <PublishedAt>2021-02-19T12:11:25Z</PublishedAt>
+      <Content>Energiminister Anders Ygeman (S) och Svenska kraftnäts generaldirektör Lotta Medelius-Bredhe har kallats till näringsutskottet, enligt DN.
+Svenska kraftnät och Ygeman ska i hemlighet ha tilldelat 1 … [+324 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>svenska-dagbladet</Id>
+        <Name>Svenska Dagbladet</Name>
+      </Source>
+      <Author>Johan Carlström</Author>
+      <Title>Riksbanken öppnar för minusränta - Svenska Dagbladet</Title>
+      <Description>Fyra av Riksbankens sex beslutsfattare öppnar för att sänka räntan om svensk ekonomi behöver mer stöd under coronakrisen. Det framgår av protokollet från bankens senaste räntemöte.</Description>
+      <Url>https://www.svd.se/riksbanken-oppnar-for-minusranta</Url>
+      <UrlToImage>https://svd.vgc.no/v2/images/209e9e41-8ba3-450e-b238-44e69de4fcf9?h=630&amp;q=80&amp;upscale=true&amp;w=1200&amp;s=ba23e92f95993e28a60bd37762452b05cf629111</UrlToImage>
+      <PublishedAt>2021-02-19T12:09:11Z</PublishedAt>
+      <Content>Den 10 februari meddelade riksbankschef Stefan Ingves att den viktiga styrräntan ligger kvar på 0 procent och att prognosen är att den ligger kvar i åtminstone tre år. 
+Men i protokollet från banken… [+199 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Ystadsallehanda.se</Name>
+      </Source>
+      <Author>Jenni Dahlgren</Author>
+      <Title>Började brinna i överkastet - Ystads Allehanda</Title>
+      <Description>Upptäcktes i den olåsta tvättstugan.</Description>
+      <Url>http://www.ystadsallehanda.se/tomelilla/borjade-brinna-i-overkastet-e1fcacb5/</Url>
+      <UrlToImage>https://imengine.gota.infomaker.io?uuid=328d8ccb-3f07-47a6-9471-1f593da3dee2&amp;width=768&amp;height=384&amp;type=preview&amp;source=false&amp;q=90&amp;z=100&amp;x=0.000&amp;y=0.143&amp;crop_w=1.000&amp;crop_h=0.716&amp;function=cropresize</UrlToImage>
+      <PublishedAt>2021-02-19T12:00:00Z</PublishedAt>
+      <Content>Med dataskyddsförordningen GDPR (General Data Protection Regulation) har vi uppdaterat våra användarvillkor så att det framgår vilka uppgifter vi samlar in från dig och vad vi använder dem till. När … [+163 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Feber.se</Name>
+      </Source>
+      <Title>Honda visar upp nya HR-V. Nu bara som hybrid - Feber</Title>
+      <Description>Det här är Hondas nya generation av modellen HR-V som nu kommer att erbjudas med hybriddrift. Faktum är att det är det enda sättet man kan få bilen - som hybrid. Vad drivlinan består av framgår inte för tillfället men troligtvis handlar det om en bensinmotor …</Description>
+      <Url>https://feber.se/bil/honda-visar-upp-nya-hr-v/421636/</Url>
+      <UrlToImage>https://static.feber.se/article_images/50/92/92/509292.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T11:40:05Z</PublishedAt>
+      <Content>För att tjäna pengar visar vi annonser, så kallade banners. Vi har ett annonssystem som håller reda på om ni har sett annonsen eller inte, hur många gånger och om ni har klickat på den. Vi sparar ing… [+1009 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Dagenshandel.se</Name>
+      </Source>
+      <Title>Nu har anrika Ströms tagit klivit ut på nätet - Dagens Handel</Title>
+      <Description>Ströms på Kungsgatan i Stockholm lanserade e-handel under coronapandemi och julhandel.</Description>
+      <Url>https://www.dagenshandel.se/article/view/778016/nu_har_anrika_stroms_tagit_klivit_ut_pa_natet</Url>
+      <UrlToImage>https://f.nordiskemedier.dk/2ffyhn4ecjfixjxb_900_473_q95.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T11:33:22Z</PublishedAt>
+      <Content>Under julhandeln 2020 lanserade anrika Ströms man &amp;amp; woman på Kungsgatan i Stockholm webbutik. Mottagandet från kunderna ska ha varit gott och försäljningen blev enligt företaget högre än förvänta… [+1177 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Dagenshandel.se</Name>
+      </Source>
+      <Title>Diesel öppnar konceptbutik - Dagens Handel</Title>
+      <Description>Läs mer</Description>
+      <Url>https://www.dagenshandel.se/article/view/778154/diesel_oppnar_konceptbutik</Url>
+      <UrlToImage>https://f.nordiskemedier.dk/22g3dhd65tgop2sb_900_473_q95.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T11:33:22Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Id>goteborgs-posten</Id>
+        <Name>Göteborgs-Posten</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Domstolsbakslag för Uber - Göteborgs-Posten</Title>
+      <Description />
+      <Url>https://www.gp.se/ekonomi/domstolsbakslag-för-uber-1.41747508</Url>
+      <UrlToImage>http://www.gp.se/image/policy:1.41747451:1613731808/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a</UrlToImage>
+      <PublishedAt>2021-02-19T10:50:13Z</PublishedAt>
+      <Content>Uberchaufförer har samma rättigheter som andra anställda, inklusive minimilön, slår Storbritanniens högsta domstol fast.
+Domen är ett stort bakslag för Uber, med omkring 60 000 chaufförer i trafik i… [+654 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Sydsvenskan.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Roaring Kitty” utfrågad kring Gamestophärvan - Sydsvenskan</Title>
+      <Description>Varför stoppade nätmäklaren Robinhood handeln i Gamestop och vilket ansvar har man för de småsparare som dragits med i hysterin? Det var några av huvudfrågorna när bolagets vd grillades i en utfrågning i USA:s representanthus. Ett nytt kapitel skrevs i</Description>
+      <Url>https://www.sydsvenskan.se/2021-02-19/roaring-kitty-utfragad-kring-gamestopharvan</Url>
+      <UrlToImage>https://www.sydsvenskan.se/images/1FcbMDp1s8HVmsCCpCm2PHOGycA.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T10:45:48Z</PublishedAt>
+      <Content>Få notiser direkt i webbläsaren!
+Med våra nyhetsnotiser får du senaste nytt om ämnen som du följer.Men för att kunna få notiser från oss måste du ge din webbläsare tillåtelse.
+Sätt igång!Avbryt
+Än… [+366 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Lars Hermansson, Ulrika Hermansson</Author>
+      <Title>Musk ska bygga stad på Mars - Aftonbladet</Title>
+      <Description>Då kan du flytta till Mars – om Elon Musk lyckas med sin plan</Description>
+      <Url>https://www.aftonbladet.se/nyheter/a/zglJv4/musk-vill-bygga-miljonstad-pa-mars</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/51de25e9-2f99-4848-93e6-92c71d5c44ed?fit=crop&amp;h=995&amp;q=50&amp;w=1900&amp;s=b2e5dcd551ef613cffba5bd6ab76abcc5b6ee47a</UrlToImage>
+      <PublishedAt>2021-02-19T10:35:25Z</PublishedAt>
+      <Content>Då lovar Elon Musk lovar att hans miljonstad på den röda planeten ska vara klar.
+Christer Fuglesang: Själva resan tar 48 månader enkel resa, och det är inget problem att klara för en person i normal… [+99 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Sydsvenskan.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Eurozonens tjänstesektor tar stryk i nedstängningarna - Sydsvenskan</Title>
+      <Description>Den ekonomiska aktiviteten i eurozonen har bromsat in i februari till följd av nedstängningar för att hejda spridningen av covid-19, enligt ett inköpschefsindex från IHS Markit. Det är återigen tjänstesektorn som tar stryk, medan industrin tuffar på i a</Description>
+      <Url>https://www.sydsvenskan.se/2021-02-19/eurozonens-tjanstesektor-tar-stryk-i-nedstangningarna</Url>
+      <UrlToImage>https://www.sydsvenskan.se/assets/static/sydsvenskan/facebook.png</UrlToImage>
+      <PublishedAt>2021-02-19T10:23:51Z</PublishedAt>
+      <Content>Den ekonomiska aktiviteten i eurozonen har bromsat in i februari till följd av nedstängningar för att hejda spridningen av covid-19, enligt ett inköpschefsindex från IHS Markit. Det är återigen tjäns… [+1144 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Fastighetsvarlden.se</Name>
+      </Source>
+      <Title>Blir ordinarie vd på Amasten - Fastighetsvärlden</Title>
+      <Description>Mikael Rånes utses till vd för Amasten. Han har varit tillförordnad vd sedan november förra året då Jan Erik Höjwall gick i pension. Mikael Rånes tidigare förvaltningschef på Amasten.</Description>
+      <Url>https://www.fastighetsvarlden.se/karriar/personnytt/blir-ordinarie-vd-pa-amasten/</Url>
+      <UrlToImage>https://www.fastighetsvarlden.se/wp-content/uploads/2021/02/Mikael_Ranes.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T10:22:44Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Privataaffarer.se</Name>
+      </Source>
+      <Author>chfal</Author>
+      <Title>Chatt Hernhag: Fem billiga aktier att köpa just nu - Privata Affärer</Title>
+      <Description>Maria: Fem billiga aktier just nu att köpa? TackMarcus: Sett till direktavkastningen känns Cibus rätt billiga inom fastigheter. Utdelningshöjaren Wihlborgs börjar bli småbillig i den sektorn också. Telia ligger kvar på låga kursnivåer och hög direktavastning,…</Description>
+      <Url>https://www.privataaffarer.se/hernhag-fem-billiga-aktier-att-kopa-just-nu/</Url>
+      <UrlToImage>https://cached-images.btdmtech.se/paf-e//?p=/editorial/2019/11/hernhag-tangenter-grafer.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T10:22:00Z</PublishedAt>
+      <Content>Maria: Fem billiga aktier just nu att köpa? TackMarcus: Sett till direktavkastningen känns Cibus rätt billiga inom fastigheter. Utdelningshöjaren Wihlborgs börjar bli småbillig i den sektorn också. T… [+10630 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Bohuslaningen.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>10:25 Nordmark ser ljuspunkter - Bohusläningen</Title>
+      <Description>Trots allvarligt och osäkert läge på arbetsmarknaden ser arbetsmarknadsminister Eva Nordmark (S) ljuspunkter.</Description>
+      <Url>https://www.bohuslaningen.se/ekonomi/nordmark-ser-ljuspunkter-1.41742364</Url>
+      <UrlToImage>http://www.bohuslaningen.se/image/policy:1.41742352:1613726774/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a</UrlToImage>
+      <PublishedAt>2021-02-19T09:26:00Z</PublishedAt>
+      <Content>Vi ser en viss återhämtning, sade Nordmark på en pressträff.
+De ljuspunkter hon pekar på finns i SCB:s arbetskraftsundersökning för fjärde kvartalet 2020. Jämfört med kvartalet innan minskade arbets… [+967 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Fastighetsvarlden.se</Name>
+      </Source>
+      <Title>Stenhus köper mer – förvärvar portfölj i Norrtälje - Fastighetsvärlden</Title>
+      <Description>Säljare är ett privat danskt bolag. Förvärvet finansieras med egna medel och förutsätter ingen bankfinansiering. Stenhus förvärvar grannfastigheterna Vattumannen 2 &amp; 4…</Description>
+      <Url>https://www.fastighetsvarlden.se/notiser/stenhus-koper-mer-forvarvar-portfolj-i-norrtalje/</Url>
+      <UrlToImage>https://www.fastighetsvarlden.se/wp-content/uploads/2015/12/fastighetsvarlden-logo-large-4.png</UrlToImage>
+      <PublishedAt>2021-02-19T08:40:13Z</PublishedAt>
+      <Content>Säljare är ett privat danskt bolag. Förvärvet finansieras med egna medel och förutsätter ingen bankfinansiering.
+Stenhus förvärvar grannfastigheterna Vattumannen 2 &amp;amp; 4, grannfastigheterna till d… [+1080 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.vk.se</Name>
+      </Source>
+      <Author>TT</Author>
+      <Title>Börsen öppnar uppåt - Västerbottens-Kuriren</Title>
+      <Description>Stockholmsbörsen avslutar veckan med ett rejält lyft för verkstad. OMXS-index har vid lunchtid gått upp 0,5 procent och tar därmed sikte på de historiska rekordnivåerna i början av börsveckan.</Description>
+      <Url>https://www.vk.se/2021-02-19/borsen-tar-sikte-pa-nya-rekord</Url>
+      <UrlToImage>https://vkmedia.imgix.net/yw6x4LjUqDCAfrS8jHs0CkVY6fg.jpg?auto=compress&amp;w=686&amp;h=359&amp;crop=faces,edges&amp;fit=crop</UrlToImage>
+      <PublishedAt>2021-02-19T08:13:53Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.di.se</Name>
+      </Source>
+      <Author>Viktor Mölne</Author>
+      <Title>Cint rusar i börspremiären Uppdaterad - Dagens Industri</Title>
+      <Description />
+      <Url>https://www.di.se/live/cint-rusar-i-borspremiaren/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/02126205-1a06-44fc-9ce9-a68dbb01d3e3.jpeg?interpolation=lanczos-none&amp;crop=1.777778h:h;*,*&amp;crop=w:0.5625w;*,*&amp;downsize=960:540&amp;output-format=auto&amp;output-quality=70</UrlToImage>
+      <PublishedAt>2021-02-19T08:04:00Z</PublishedAt>
+      <Content>I en tid när många företag kämpar för att behålla sina kunder, och hitta nya, har det blivit viktigare än någonsin att lägga tid på sin affär och kapa tidsödande processer. Interna funktioner driver … [+2771 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Fastighetstidningen.se</Name>
+      </Source>
+      <Title>Trianon ökade nettoresultatet väsentligt under fjärde kvartalet, delar ut 1,8 kronor aktien - Fastighetstidningen</Title>
+      <Description>Fastighetsbolaget Trianon redovisar ökande nettoresultat under fjärde kvartalet jämfört med samma period året innan. Styrelsen föreslår höjd utdelning. Trianon bedömer att man kommer fortsatt att klara sig väl under pandemin och att dess påverkan blir liten u…</Description>
+      <Url>https://fastighetstidningen.se/trianon-okade-nettoresultatet-vasentligt-under-fjarde-kvartalet-delar-ut-18-kronor-aktien/</Url>
+      <UrlToImage />
+      <PublishedAt>2021-02-19T07:41:36Z</PublishedAt>
+      <Content>Fastighetsbolaget Trianon redovisar ökande nettoresultat under fjärde kvartalet jämfört med samma period året innan. Styrelsen föreslår höjd utdelning. 
+Trianon bedömer att man kommer fortsatt att k… [+1763 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.svt.se</Name>
+      </Source>
+      <Author>https://www.facebook.com/svtnyheter</Author>
+      <Title>Northvolt expanderar och investerar drygt 1,6 miljarder kronor i ny fabrik - Sveriges Television</Title>
+      <Description>Bolaget Northvolt bygger en till fabrik i Gdansk i Polen, en investering på 1,6 miljarder kronor. Fabriken för batterisystem ska bli störst i Europa på energilagringssystem.</Description>
+      <Url>https://www.svt.se/nyheter/lokalt/vasterbotten/northvolt-expanderar-och-investerar-drygt-1-6-miljarder-kronor-i-ny-fabrik</Url>
+      <UrlToImage>https://www.svtstatic.se/image/custom/650/30204928/1613660327?format=auto&amp;ratio=1.91</UrlToImage>
+      <PublishedAt>2021-02-19T07:29:14Z</PublishedAt>
+      <Content>Det handlar alltså inte om produktion av själva battericellerna som så småningom ska ske i Skellefteå, utan om att sätta ihop battericellerna till olika batterisystem.
+ Nyckeln för att säkerställa i… [+1066 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Affarsvarlden.se</Name>
+      </Source>
+      <Title>Storytel ökar omsättningen och minskar förlusten - Affärsvärlden</Title>
+      <Description>Ljudboksspecialisten Storytel redovisar ökande omsättning under fjärde kvartalet jämfört med samma period året innan. Rörelseförlusten minskade och styrelsen föreslår ingen utdelning.</Description>
+      <Url>https://www.affarsvarlden.se/artikel/storytel-okar-omsattningen-och-minskar-forlusten</Url>
+      <UrlToImage>https://s3-eu-north-1.amazonaws.com/affarsvarlden/media/2020/04/17201139/storytel-700_binary_6966367.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T07:25:29Z</PublishedAt>
+      <Content>Omsättningen steg 17,3% till 663 miljoner kronor (565).Rörelseresultatet blev -58,8 miljoner kronor (-99,1).
+Resultatet före skatt var -64,8 miljoner kronor (-104).
+Resultatet efter skatt blev -65,… [+997 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Dagensjuridik.se</Name>
+      </Source>
+      <Title>Fortsatt uppåt på bostadsmarknaden i januari | Dagens Juridik - Dagens Juridik</Title>
+      <Description>Prisindex för privatägda bostäder i Sverige, HOXSWE, steg med 2,8 procent i januari. Det är den största ökningen sedan januari 2020. Det är dock enligt förväntan, då ökningen mellan december...</Description>
+      <Url>https://www.dagensjuridik.se/nyheter/fortsatt-uppat-pa-bostadsmarknaden-i-januari/</Url>
+      <UrlToImage>https://www.dagensjuridik.se/app/uploads/2019/08/sdlx1OBW36oxwU-nh-2-972x376.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T07:01:00Z</PublishedAt>
+      <Content>Publicerad: 2021-02-19 08:01
+ Foto: Lars Pehrson / SvD / TT / Kod 30152
+** OUT DN och Dagens Industri (även arkiv) och Metro**
+Prisindex för privatägda bostäder i Sverige, HOXSWE, steg med 2,8 pro… [+1477 chars]</Content>
+    </Article>
+  </Articles>
+</NewsApiData>

@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>70</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Name>Swedroid.se</Name>
+      </Source>
+      <Title>Designnyheterna i förhandsversionen av Android 12 - Swedroid</Title>
+      <Description>Google släppte en förhandsversion av Android 12 under gårdagskvällen. Androids nya gränssnitt har inaktiverats av Google i förhandsversionen. De stora designförändringarna förväntas komma först senare i år. Med detta sagt erbjuder förhandsversionen ändå en he…</Description>
+      <Url>https://swedroid.se/designnyheterna-i-forhandsversionen-av-android-12/</Url>
+      <UrlToImage>https://cdn771.swedroid.se/wp-content/uploads/2021/02/android_12_developer_preview_1_logo.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T11:52:50Z</PublishedAt>
+      <Content>Med detta sagt erbjuder förhandsversionen ändå en hel del nyheter kring design och funktionalitet. Dave Burke berättade om nyheterna för utvecklare igår och här kommer en motsvarande sammanställning … [+4530 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Sweclockers.com</Name>
+      </Source>
+      <Author>Jonas Klar</Author>
+      <Title>Nvidia: "Krypto-låsning av RTX 3060 är inte begränsad till drivrutiner" - SweClockers</Title>
+      <Description>Bolagets Bryan Del Rizzo tar till Twitter för att bena ut hur kommande grafikkort begränsar prestanda vid brytning av kryptovaluta.</Description>
+      <Url>https://www.sweclockers.com/nyhet/31395-nvidia-krypto-lasning-av-rtx-3060-ar-inte-begransad-till-drivrutiner</Url>
+      <UrlToImage>https://www.sweclockers.com/artikel/31395/og-image</UrlToImage>
+      <PublishedAt>2021-02-19T10:53:00Z</PublishedAt>
+      <Content>Under gårdagen rapporterade vi om hur Nvidia vidtar åtgärder för att se till att grafikkort ämnade för konsumenter, såsom kommande Geforce RTX 3060, i huvudsak hamnar i händerna på spelintresserade. … [+1586 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Aftonbladet.se</Name>
+      </Source>
+      <Author>Lars Hermansson, Ulrika Hermansson</Author>
+      <Title>Musk ska bygga stad på Mars - Aftonbladet</Title>
+      <Description>Då kan du flytta till Mars – om Elon Musk lyckas med sin plan</Description>
+      <Url>https://www.aftonbladet.se/nyheter/a/zglJv4/musk-vill-bygga-miljonstad-pa-mars</Url>
+      <UrlToImage>https://imgs.aftonbladet-cdn.se/v2/images/51de25e9-2f99-4848-93e6-92c71d5c44ed?fit=crop&amp;h=995&amp;q=50&amp;w=1900&amp;s=b2e5dcd551ef613cffba5bd6ab76abcc5b6ee47a</UrlToImage>
+      <PublishedAt>2021-02-19T10:35:25Z</PublishedAt>
+      <Content>Då lovar Elon Musk lovar att hans miljonstad på den röda planeten ska vara klar.
+Christer Fuglesang: Själva resan tar 48 månader enkel resa, och det är inget problem att klara för en person i normal… [+99 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Digital.di.se</Name>
+      </Source>
+      <Title>Har tagit in halv miljard till solenergi med crowdfunding: ”Stark tillväxt” 14 min - Dagens Industri</Title>
+      <Description>Marknaden för solenergi har under de senaste åren utvecklats snabbt och allt fler dieselgeneratorer byts ut mot solceller. Impact-bolaget Trine har hittills tagit in en halv miljard kronor genom crowdfunding till solenergiprojekt.</Description>
+      <Url>https://digital.di.se/artikel/har-tagit-in-halv-miljard-till-solenergi-med-crowdfunding-stark-tillvaxt</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/5c91fa31-0cbc-4ac4-8a27-b9b35254280f.jpeg?interpolation=lanczos-none&amp;downsize=1224:*&amp;output-quality=90&amp;output-format=jpeg</UrlToImage>
+      <PublishedAt>2021-02-19T09:49:12Z</PublishedAt>
+      <Content>Trine är ett bolag där privatpersoner och företag kan investera hållbart i just solenergi, och samtidigt få tillbaka pengar på sin avkastning. 
+Sam Manaberi, vd för Trine pratar om en ljus framtid f… [+2977 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Affarsvarlden.se</Name>
+      </Source>
+      <Title>Genombrott för nanomedicinsk cancerterapi - Affärsvärlden</Title>
+      <Description>Efter att data visat att grundtekniken fungerar genomför nu svenska bioteknikföretaget Spago Nanomedical AB en emission för att öka takten i båda sina cancerprojekt</Description>
+      <Url>https://www.affarsvarlden.se/native/genombrott-for-nanomedicinsk-cancerterapi</Url>
+      <UrlToImage>https://s3-eu-north-1.amazonaws.com/affarsvarlden/media/2021/02/11101033/SPAGO_2_900x600.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T09:27:34Z</PublishedAt>
+      <Content>Spago Nanomedical i Lund utvecklar nanomedicinska preparat för diagnostik och behandling av cancer. Bolaget driver två projekt, det cancerselektiva kontrastmedlet SpagoPix för magnetisk resonanstomog… [+2674 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Techworld.idg.se</Name>
+      </Source>
+      <Title>Microsofts nya uppdatering raderar Flash från Windows permanent - TechWorld</Title>
+      <Description>Det klassiska programmet slutade fungera helt den 12 januari.</Description>
+      <Url>https://techworld.idg.se/2.2524/1.747244/microsoft-uppdatering-radera-flash</Url>
+      <UrlToImage>https://www.idg.se/editorial/1200/path/1.747244.1613723480!imageUploader/1646201622.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T08:38:06Z</PublishedAt>
+      <Content>Microsoft har nu börjat skickat ut Windows 10-uppdateringen KB4577586 som permanent tar bort Adobe Flash Player, rapporterar Zdnet.
+Flash har stegvis fasats ut från datorer eftersom det blivit allt … [+490 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Pcforalla.idg.se</Name>
+      </Source>
+      <Title>Microsoft ska släppa nytt fristående Office 2021 - PC för Alla - PC för Alla</Title>
+      <Description>Senare i år ska Microsoft uppdatera innehållet i den licensbaserade versionen av Office med många av nyheterna som har kommit till prenumeranter sedan 2019.</Description>
+      <Url>https://pcforalla.idg.se/2.1054/1.747249/office-2021</Url>
+      <UrlToImage>https://www.idg.se/editorial/1200/path/1.747249.1613723177!imageUploader/2443342470.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T08:29:10Z</PublishedAt>
+      <Content>Den senaste versionen av Microsoft Office som säljs med permanent licens istället för via Microsoft 365-prenumeration är Office 2019, som släpptes 2018. Sedan den släpptes har Microsoft lagt till en … [+776 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Nyteknik.se</Name>
+      </Source>
+      <Author>Anonymous</Author>
+      <Title>Det behövs en systematisk genomgång av gamla vattendomar” - Ny Teknik</Title>
+      <Description>REPLIK. En effektutbyggnad av de mindre vattenkraftverken är en vällovlig ambition. Men den stora satsningen nu är att gå igenom och uppdatera alla gamla vattendomar, skriver Leif Hjärne.</Description>
+      <Url>https://www.nyteknik.se/opinion/det-behovs-en-systematisk-genomgang-av-gamla-vattendomar-7010067</Url>
+      <UrlToImage>https://www.nyteknik.se/52lhgt-teaser-debatt-replik-vattenkraft.jpg/binary/original/teaser-debatt-replik-vattenkraft.jpg</UrlToImage>
+      <PublishedAt>2021-02-19T06:00:00Z</PublishedAt>
+      <Content>Det här är en debattartikel. Åsikterna som framförs är skribentens egna.REPLIK. En effektutbyggnad av de mindre vattenkraftverken är en vällovlig ambition. Men den stora satsningen nu är att gå igeno… [+2218 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Sweclockers.com</Name>
+      </Source>
+      <Author>Jonas Klar</Author>
+      <Title>Cooler Master lanserar RGB-belyst grafikkortsstöd i härdat glas - SweClockers</Title>
+      <Description>Tunga grafikkort får något belyst att luta sig mot när Cooler Master lanserar stödet Masteraccessory ARGB GPU Support Bracket.</Description>
+      <Url>https://www.sweclockers.com/nyhet/31391-cooler-master-lanserar-rgb-belyst-grafikkortsstod-i-hardat-glas</Url>
+      <UrlToImage>https://www.sweclockers.com/artikel/31391/og-image</UrlToImage>
+      <PublishedAt>2021-02-19T05:38:00Z</PublishedAt>
+      <Content>Produktserien Masteraccessory från taiwanesiska Cooler Master innefattar sedan tidigare datorrelaterade tillbehör såsom exempelvis ryggsäckar och musmattor. Där musmattorna har relativt lättsmälta na… [+1508 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Macworld.idg.se</Name>
+      </Source>
+      <Title>Apple TV Plus finns nu på Google TV - MacWorld</Title>
+      <Description>Gör det möjligt att använda Apples streamingtjänst via en Chromecast.</Description>
+      <Url>https://macworld.idg.se/2.1038/1.747246/apple-tv-plus-finns-nu-pa-google-tv</Url>
+      <UrlToImage>https://www.idg.se/editorial/1200/path/1.747246.1613676402!imageUploader/2197853513.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T19:24:25Z</PublishedAt>
+      <Content>Google och Apple meddelar nu att streamingtjänsten Apple TV Plus blivit tillgänglig via Google TV.
+Detta innebär att Google TV-användare kan strömma innehåll från Apple TV Plus direkt via plattforme… [+414 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Swedroid.se</Name>
+      </Source>
+      <Title>Dold inställning i Android 12 ger One UI-liknande inställningar - Swedroid</Title>
+      <Description>Grundtanken med Samsung One UI och hur gränssnittet fick sitt namn är förenklad enhandsanvändning. Samsung visar stora tomma sjok överst bland inställningar och i appar, för att trycka ned innehållet så att det blir enklare att nå. Hela skärmytan används dock…</Description>
+      <Url>https://swedroid.se/dold-installning-i-android-12-ger-one-ui-liknande-installningar/</Url>
+      <UrlToImage>https://cdn77.swedroid.se/wp-content/uploads/2021/01/android-12-bild.png</UrlToImage>
+      <PublishedAt>2021-02-18T19:20:45Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Swedroid.se</Name>
+      </Source>
+      <Title>Här är Googles tidsplan för Android 12 – första betaversionen i maj - Swedroid</Title>
+      <Description>Google har presenterat en tidsplan för Android 12. Två nya förhandsversioner kommer släppas innan betan, vilka landar i mars respektive april. Första betaversionen skickas ut i maj. Under sommaren kommer beta 2 och beta 3, med stegvisa förbättringar och ökad …</Description>
+      <Url>https://swedroid.se/har-ar-googles-tidsplan-for-android-12-forsta-betaversionen-i-maj/</Url>
+      <UrlToImage>https://cdn77.swedroid.se/wp-content/uploads/2021/01/android-12-logo-logga-logotyp-google.png</UrlToImage>
+      <PublishedAt>2021-02-18T19:08:27Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Swedroid.se</Name>
+      </Source>
+      <Title>Google släpper förhandsversion av Android 12 - Swedroid</Title>
+      <Description>Google har nyss släppt första förhandsversionen av Android 12, nästan på precis samma dag på året som förhandsversionen av Android 11 i fjol. Till skillnad mot betaversionerna är detta system endast avsett för utvecklare. De som äger en Pixel 3 eller en senar…</Description>
+      <Url>https://swedroid.se/google-slapper-forhandsversion-av-android-12/</Url>
+      <UrlToImage>https://cdn77.swedroid.se/wp-content/uploads/2021/02/android-12-logga-logo-2.png</UrlToImage>
+      <PublishedAt>2021-02-18T18:36:21Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Www.di.se</Name>
+      </Source>
+      <Author>Jesper Mothander</Author>
+      <Title>Huawei sänker volymerna – Ericsson och Fingerprint drabbas - Dagens Industri</Title>
+      <Description>Huawei har meddelat sina underleverantörer att man i år kommer att beställa komponenter till bara 70-80 miljoner smarta telefoner. Det slår mot svenska bolag.</Description>
+      <Url>https://www.di.se/nyheter/huawei-volymrasar-da-far-ericsson-angra-avtalskravet/</Url>
+      <UrlToImage>https://cached-images.bonnier.news/swift/bilder/mly/1373d883-ec7f-4edc-bf4d-4809859e76f7.jpeg?interpolation=lanczos-none&amp;crop=1.777778h:h;*,*&amp;crop=w:0.5625w;*,*&amp;downsize=1200:675&amp;output-format=auto&amp;output-quality=70</UrlToImage>
+      <PublishedAt>2021-02-18T17:02:04Z</PublishedAt>
+      <Content>Artikeln du läser är låst. Logga in eller teckna en digital prenumeration för att läsa Nordens största affärstidning.
+&lt;ul&gt;&lt;li&gt;Full tillgång till Di.se med nyheter och analyser&lt;/li&gt;&lt;li&gt;Tillgång till … [+284 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Feber.se</Name>
+      </Source>
+      <Title>MWC Barcelona ser ut att bli ett fysiskt event. Låter ju rätt dumt - Feber</Title>
+      <Description>GSMA, gänget bakom mobilmässan MWC, har levererat en uppdatering gällande årets upplagor av mässan. Vanligtvis brukar MWC hållas i Barcelona i slutet av februari och under juni körs en version i Shanghai, men i år har dessa mässor bytt plats. I och med att de…</Description>
+      <Url>https://feber.se/mobil/mwc-barcelona-ser-ut-att-bli-ett-fysiskt-event/421627/</Url>
+      <UrlToImage>https://static.feber.se/article_images/50/92/49/509249.JPG</UrlToImage>
+      <PublishedAt>2021-02-18T15:02:04Z</PublishedAt>
+      <Content>GSMA, gänget bakom mobilmässan MWC, har levererat en uppdatering gällande årets upplagor av mässan. Vanligtvis brukar MWC hållas i Barcelona i slutet av februari och under juni körs en version i Shan… [+881 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Sydsvenskan.se</Name>
+      </Source>
+      <Author>Hibba Abbas, Oskar Ahlqvist</Author>
+      <Title>Skulle sälja mobiltelefoner – blev rånad - Sydsvenskan</Title>
+      <Description>Skedde på Mobilia.</Description>
+      <Url>https://www.sydsvenskan.se/2021-02-18/kvinna-ranad-pa-mobilia</Url>
+      <UrlToImage>https://images.hdsydsvenskan.se/preset:full/0x262:2500x1667/oRm_sxzPONqpj0mgarLt0XvUlwA.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T13:09:16Z</PublishedAt>
+      <Content>Få notiser direkt i webbläsaren!
+Med våra nyhetsnotiser får du senaste nytt om ämnen som du följer.Men för att kunna få notiser från oss måste du ge din webbläsare tillåtelse.
+Sätt igång!Avbryt
+Än… [+366 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Mobil.se</Name>
+      </Source>
+      <Title>Samsung har släppt One UI 3.1 – ger S20-serien funktioner från S21 - Mobil</Title>
+      <Description>Samsung meddelar att de har börjat släppa uppdateringen till One UI 3.1 även till sina Galaxy S20-modeller, och uppdateringen har redan dykt upp i Sverige.</Description>
+      <Url>https://www.mobil.se/nyheter/samsung-har-slappt-one-ui-31-ger-s20-serien-funktioner-fran-s21</Url>
+      <UrlToImage>https://www.mobil.se/sites/mobil.se/files/styles/retina/public/10_galaxys20_single_take_lifestyle_image.jpg?itok=758Gb2YD</UrlToImage>
+      <PublishedAt>2021-02-18T13:06:43Z</PublishedAt>
+      <Content>One UI 3.1 introducerades tillsammans med Galaxy S21, och i och med denna uppdatering introduceras en rad av dessa förbättrade och nya funktioner även till Galaxy S20-modellerna. Bland dessa återfinn… [+491 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Feber.se</Name>
+      </Source>
+      <Title>Sex plus och fyra minus med AirPods Max! Hur står de sig efter två månader? - Feber</Title>
+      <Description>Nu är det två månader sedan Apple släppte AirPods Max och det är dags för en liten återblick. Hur bra är de egentligen? Svaret är smått fantastiska och beviset för det är väl att jag använder dem typ precis hela tiden. Till och med på gymmet. Men även solen h…</Description>
+      <Url>https://feber.se/pryl/sex-plus-och-fyra-minus-med-airpods-max/421620/</Url>
+      <UrlToImage>https://i.ytimg.com/vi/R6emhIxS93A/hqdefault.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T12:22:17Z</PublishedAt>
+      <Content>Nu är det två månader sedan Apple släppte AirPods Max och det är dags för en liten återblick. Hur bra är de egentligen? Svaret är smått fantastiska och beviset för det är väl att jag använder dem typ… [+307 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Computersweden.idg.se</Name>
+      </Source>
+      <Title>Trots pandemi – inget vaccinkrav inför Mobile World Congress - Computer Sweden</Title>
+      <Description>I juni är det tänkt att årets Mobile World Congress ska gå av stapeln i Barcelona. Vaccinationsintyg kommer inte att krävas men däremot negativa provsvar för covid-19.</Description>
+      <Url>https://computersweden.idg.se/2.2683/1.747212/mwc-ej-vaccinkrav</Url>
+      <UrlToImage>https://www.idg.se/editorial/1200/path/1.747212.1613650932!imageUploader/55666972.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T12:22:00Z</PublishedAt>
+      <Content>Förra våren svepte covid-19 in med full kraft över Europa och Mobile World Congress tvingades ställa in. Men i år ska den gigantiska mässan bli av är det tänkt  dock meddelades i höstas att den läggs… [+1231 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Macworld.idg.se</Name>
+      </Source>
+      <Title>Första fallet av skadlig kod för nya M1-Macarna har upptäckts - MacWorld</Title>
+      <Description>Safari-tillägget GoSearch22 ökar mängden reklam, länkar till diverse skadeprogram och samlar in känslig data om användarna.</Description>
+      <Url>https://macworld.idg.se/2.1038/1.747209/forsta-fallet-av-skadlig-kod-for-nya-m1-macarna-har-upptackts</Url>
+      <UrlToImage>https://www.idg.se/editorial/1200/path/1.747209.1613648496!imageUploader/4103804230.jpg</UrlToImage>
+      <PublishedAt>2021-02-18T11:42:56Z</PublishedAt>
+      <Content>Säkerhetsforskaren Patrick Wardle har upptäckt det första exemplet på skadlig kod som riktar in sig specifikt på de nya M1-Macarna.
+Det hela rör sig om ett Safari-tillägg med namnet GoSearch22 som ö… [+597 chars]</Content>
+    </Article>
+  </Articles>
+</NewsApiData>

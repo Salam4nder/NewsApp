@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sys="clr-namespace:System;assembly=netstandard"
+             x:Class="News.Views.ConsolePage"
+             Title="Debug Console"
+             Padding="10,30,10,5">
+    <StackLayout Padding="10" >
+        <Label Text="Simple Console Output" HorizontalOptions="Center" FontSize="24"/>
+        <StackLayout Orientation="Horizontal" HeightRequest="50" HorizontalOptions="Center">
+            <Stepper x:Name="stepper" Minimum="0" Increment="1" VerticalOptions="Center"/>
+            <Label Text="{Binding Value}" BindingContext="{x:Reference stepper}" VerticalOptions="Center" />
+        </StackLayout>
+        <StackLayout>
+            <Button Text="Run your Console program" Clicked="Button_Clicked" />
+            <ScrollView>
+                <Editor x:Name="myOutput" IsReadOnly="True" AutoSize="TextChanges"/>
+            </ScrollView>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

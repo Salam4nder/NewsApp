@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ModelsSampleData\sample business.xml" />
+    <None Remove="ModelsSampleData\sample entertainment.xml" />
+    <None Remove="ModelsSampleData\sample general.xml" />
+    <None Remove="ModelsSampleData\sample health.xml" />
+    <None Remove="ModelsSampleData\sample science.xml" />
+    <None Remove="ModelsSampleData\sample sports.xml" />
+    <None Remove="ModelsSampleData\sample technology.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="ModelsSampleData\sample business.xml" />
+    <EmbeddedResource Include="ModelsSampleData\sample entertainment.xml" />
+    <EmbeddedResource Include="ModelsSampleData\sample general.xml" />
+    <EmbeddedResource Include="ModelsSampleData\sample health.xml" />
+    <EmbeddedResource Include="ModelsSampleData\sample science.xml" />
+    <EmbeddedResource Include="ModelsSampleData\sample sports.xml" />
+    <EmbeddedResource Include="ModelsSampleData\sample technology.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="System.Net.Http.Json" Version="6.0.0" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2401" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Views\AboutPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\ArticleView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\ConsolePage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\MainPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
